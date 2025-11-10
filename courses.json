@@ -1,22 +1,20 @@
 [
   {
-    "id": 1,
-    "title": "Курс 1",
-    "description": "Описание курса 1"
+    "id": "python-intro",
+    "title": "Курс: Введение в Python",
+    "description": "Описание курса Python...",
+    "lessons": ["Введение", "Переменные"]
   },
   {
-    "id": 2,
-    "title": "Курс 2",
-    "description": "Описание курса 2"
+    "id": "js-advanced",
+    "title": "Курс: Продвинутый JavaScript",
+    "description": "Описание курса JavaScript...",
+    "lessons": ["Closure", "Promises"]
   },
   {
-    "id": 3,
-    "title": "Курс 3",
-    "description": "Описание курса 2"
-  },
-  {
-    "id": 4,
-    "title": "Курс 4",
-    "description": "Описание курса 2"
+    "id": "design-basics",
+    "title": "Курс: Основы Дизайна",
+    "description": "Описание курса дизайна...",
+    "lessons": ["Цвет", "Композиция"]
   }
 ]
