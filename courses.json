@@ -16,5 +16,17 @@
     "title": "Курс: Основы Дизайна",
     "description": "Описание курса дизайна...",
     "lessons": ["Цвет", "Композиция"]
+  },
+  {
+    "id": "js-advanced",
+    "title": "Курс: Продвинутый JavaScript",
+    "description": "Описание курса JavaScript...",
+    "lessons": ["Closure", "Promises"]
+  },
+  {
+    "id": "js-advanced",
+    "title": "Курс: Продвинутый JavaScript",
+    "description": "Описание курса JavaScript...",
+    "lessons": ["Closure", "Promises"]
   }
 ]
