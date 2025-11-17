@@ -1,32 +1,4328 @@
 [
   {
-    "id": "python-intro",
-    "title": "Курс: Введение в Python",
-    "description": "Описание курса Python...",
-    "lessons": ["Введение", "Переменные"]
+    "id": "uchenie-x10-religija-chistoty-igor-rybakov",
+    "title": "[Учение X10. Религия чистоТЫ. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
   },
   {
-    "id": "js-advanced",
-    "title": "Курс: Продвинутый JavaScript",
-    "description": "Описание курса JavaScript...",
-    "lessons": ["Closure", "Promises"]
+    "id": "uspevaju-vse-tajm-menedzhment-dlja-devushek-aprel-2018-anna-vsehsvjatskaja",
+    "title": "[Успеваю все: тайм-менеджмент для девушек, апрель 2018. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
   },
   {
-    "id": "design-basics",
-    "title": "Курс: Основы Дизайна",
-    "description": "Описание курса дизайна...",
-    "lessons": ["Цвет", "Композиция"]
+    "id": "uspevaju-vse-fevral-2021-tarif-bazovyj-anna-vsehsvjatskaja",
+    "title": "[Успеваю все. Февраль 2021. Тариф Базовый. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
   },
   {
-    "id": "js-advanced",
-    "title": "Курс: Продвинутый JavaScript",
-    "description": "Описание курса JavaScript...",
-    "lessons": ["Closure", "Promises"]
+    "id": "uspevaju-vse-anna-vsehsvjatskaja-akademija-zhenskogo-tajm-menedzhmenta-vremja-v-porjadke",
+    "title": "[Успеваю все. Анна Всехсвятская АКАДЕМИЯ ЖЕНСКОГО ТАЙМ-МЕНЕДЖМЕНТА «ВРЕМЯ В ПОРЯДКЕ»]",
+    "description": "",
+    "lessons": []
   },
   {
-    "id": "js-advanced",
-    "title": "Курс: Продвинутый JavaScript",
-    "description": "Описание курса JavaScript...",
-    "lessons": ["Closure", "Promises"]
+    "id": "uspevajka-na-kuhne-tarif-prodvinutyj-anna-vsehsvjatskaja-vremja-v-porjadke",
+    "title": "[Успевайка на кухне. Тариф «Продвинутый». Анна Всехсвятская Время в порядке]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevajka-na-kuhne-tarif-bazovyj-2019-anna-vsehsvjatskaja",
+    "title": "[Успевайка на кухне. Тариф - Базовый. 2019. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "secret-h10-imet-to-chto-dajot-vse-igor-rybakov",
+    "title": "[Secret Х10. Иметь то, что даёт всё. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "next-mba-rukovoditel-igor-rybakov-sergej-guriev",
+    "title": "[NEXT MBA: Руководитель. Игорь Рыбаков, Сергей Гуриев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "homo-totus-uchenie-ob-aktualnosti-luchshie-idei-i-praktiki-dlja-ljudej-gotovyh-predprinjat-sebja-igor-rybakov",
+    "title": "[Homo Totus. Учение об актуальности: Лучшие идеи и практики для людей, готовых предпринять себя. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zavershenie-nezavershennyh-otnoshenij-kak-otpustit-obidy-bol-razocharovanija-viktorija-volevach",
+    "title": "[Завершение незавершенных отношений. Как отпустить обиды, боль, разочарования. Виктория Волевач]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mramornaja-tehnika-valentina-burceva-flamjoy",
+    "title": "[Мраморная техника. Валентина Бурцева Flamjoy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "master-progrevaj-toma-sarkulova",
+    "title": "[Мастер, прогревай. Тома Саркулова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-po-illustracii-personazha-toma-sarkulova",
+    "title": "[Курс по иллюстрации персонажа. Тома Саркулова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kontentbuk-sezon-prodazh-toma-sarkulova-tomat",
+    "title": "[Контентбук Сезон продаж. Тома Саркулова ТомаТ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "italjanskaja-kulinarija-dlja-hudejushhih-irina-chernenko",
+    "title": "[Итальянская кулинария для худеющих. Ирина Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zarabotaj-na-donatah-toma-sarkulova-jana-mezenceva-tomat-shkola-dlja-tvorcheskih",
+    "title": "[Заработай на донатах. Тома Саркулова, Яна Мезенцева ТомаТ Школа для творческих]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vkusno-strojno-zimnee-menju-irina-chernenko",
+    "title": "[Вкусно стройно-зимнее меню. Ирина Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "avtorskiy-kurs-po-sjemke-i-obrabotke-tarif-uchenik-andrej-vasilev",
+    "title": "[Авторский курс по съемке и обработке. Тариф \"Ученик\". Андрей Васильев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lenorman-plus-2-olesja-veselova",
+    "title": "[Ленорман Плюс-2. Олеся Веселова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lenorman-plus-1-olesja-veselova",
+    "title": "[Ленорман Плюс-1. Олеся Веселова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-puteshestvie-po-italii-alla-belousova-vsemart",
+    "title": "[Курс \"Путешествие по Италии\". Алла Белоусова ВсемАрт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "konsultant-po-cvetu-ot-nulja-do-profi-natalja-zueva",
+    "title": "[Консультант по цвету от нуля до профи. Наталья Зуева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "komplekt-moshhnejshih-meditativnyh-praktik-guru-meditativnyh-praktik-julija-bulbash",
+    "title": "[Комплект мощнейших медитативных практик. Гуру Медитативных Практик. Юлия Бульбаш]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kniga-stilja-for-women-paket-jekspert-natalja-zueva",
+    "title": "[Книга Стиля for women. Пакет Эксперт. Наталья Зуева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-vsem-art-avgust-otpusk-v-gruzii-alla-belousova-vsem-art",
+    "title": "[Клуб Всем Арт. Август. Отпуск в Грузии. Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-vsem-art-abonement-na-3-mesjaca-alla-belousova-vsem-art",
+    "title": "[Клуб Всем Арт, Абонемент на 3 месяца. Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kanikuly-v-derevne-alla-belousova-vsemart",
+    "title": "[Каникулы в деревне. Алла Белоусова ВсемАрт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-vybrat-prichesku-strizhku-chtoby-vygljadeli-stilno-natalja-zueva",
+    "title": "[Как выбрать прическу, стрижку, чтобы выглядеть стильно. Наталья Зуева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-posobie-kak-najti-klientov-natalja-zueva-margo-kovika",
+    "title": "[Курс-пособие Как найти клиентов. Наталья Зуева, Марго Ковика]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-more-alla-belousova-vsem-art",
+    "title": "[Курс «Море». Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nachinka-moti-fistashka-malina-ekaterina-leonova-bergamotii",
+    "title": "[Начинка моти Фисташка-Малина. Екатерина Леонова, bergamotii]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "moti-vesenno-letnjaja-kollekcija-nachinok-ekaterina-leonova-bergamotii",
+    "title": "[Моти. Весенне-летняя коллекция начинок. Екатерина Леонова, bergamotii]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nachinka-moti-apelsinovyj-trjufel-ganash-ekaterina-leonova-bergamotii",
+    "title": "[Начинка моти Апельсиновый трюфель. Ганаш. Екатерина Леонова, bergamotii]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nachinka-moti-ezhevichnyj-kosmos-ekaterina-leonova-bergamot_ii",
+    "title": "[Начинка моти Ежевичный космос. Екатерина Леонова. bergamot_ii]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nachinka-moti-shokoladnoe-trio-ekaterina-leonova-bergamot_ii",
+    "title": "[Начинка моти Шоколадное трио. Екатерина Леонова bergamot_ii]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "profajling-rechevye-patterny-i-psihologicheskie-kompleksy-3-modul-aleksej-filatov-evgenij-spirica",
+    "title": "[Профайлинг: Речевые паттерны и психологические комплексы. 3 модуль. Алексей Филатов, Евгений Спирица]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-opredeljat-lozh-i-chitat-jazyk-zhestov-aleksej-filatov-i-ilja-anishhenko",
+    "title": "[Как определять ложь и читать язык жестов. Алексей Филатов и Илья Анищенко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "facereader-professionalnoe-chtenie-lic-prosto-2019-nojabr-aleksej-filatov",
+    "title": "[Facereader. Профессиональное чтение лиц — это просто. 2019 Ноябрь. Алексей Филатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mini-kurs-sindrom-dyrjavogo-kishechnika-ot-teorii-k-praktike-diljara-lebedeva",
+    "title": "[Мини-курс синдром «дырявого» кишечника - от теории к практике. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "keto-dieta-instrukcija-po-primeneniju-diljara-lebedeva",
+    "title": "[Кето-диета: инструкция по применению. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-za-korotkoe-vremja-normalizovat-sahar-v-krovi-diljara-lebedeva",
+    "title": "[Как за короткое время нормализовать сахар в крови. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zagadki-shhitovidki-pochemu-perestaet-rabotat-i-kak-jeto-ispravit-diljara-lebedeva",
+    "title": "[Загадки щитовидки. Почему перестает работать и как это исправить. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gormony-i-molodost-20-diljara-lebedeva",
+    "title": "[Гормоны и молодость 2.0. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bazovaja-diagnostika-raboty-kishechnika-diljara-lebedeva",
+    "title": "[Базовая диагностика работы кишечника. Диляра Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "yandeks-direkt-kak-poluchat-pribyl-a-ne-igrat-v-lotereju-filipp-carevskij",
+    "title": "[Яндекс директ Как получать прибыль, а не играть в лотерею. Филипп Царевский]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "envolirovanie-jadviga",
+    "title": "[Энвольтирование. Ядвига]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "strelitsija-maslo-zolochenie-anastasija-mihajlova",
+    "title": "[Стрелиция. масло + золочение. Анастасия Михайлова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sistema-prodazh-v-socsetjah-ikigaj-kpd-bloga-tarif-ya-sam-alina-dunina",
+    "title": "[Система продаж в соцсетях + Икигай+ КПД Блога. Тариф Я сам. Алина Дунина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "postroenie-vykrojki-poshiv-futbolki-i-platja-futbolki-ljudmila-makarenko-modno-shvejno",
+    "title": "[Построение выкройки, пошив футболки и платья-футболки. Людмила Макаренко Модно Швейно]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "na-samom-dele-ja-umnaja-no-zhivu-kak-dura-pavel-rakov",
+    "title": "[На самом деле я умная, но живу как дура! Павел Раков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zhivi-ljubi-manipuliruj-tehnologija-stabilnyh-otnoshenij-pavel-rakov",
+    "title": "[Живи, люби, манипулируй: технология стабильных отношений. Павел Раков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "godovaja-podpiska-mindvalley",
+    "title": "[Годовая подписка. Mindvalley]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vse-kvesty-mindvalley-godovaja-podpiska-2023-mindvalley",
+    "title": "[Все квесты Mindvalley. Годовая подписка 2023. Mindvalley]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "amerikanskie-istorii-s-jane-jane-iva-dmitrij-gurbatov",
+    "title": "[Американские истории с Jane. Jane Iva, Дмитрий Гурбатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "unlimited-spanish-tarif-vsjo-v-odnom-dmitrij-gurbatov",
+    "title": "[Unlimited spanish. Тариф «Всё в одном». Дмитрий Гурбатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "english-language-po-metodiki-poliglotov-dmitrij-gurbatov",
+    "title": "[English language по методики полиглотов. Дмитрий Гурбатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "deutsche-sprache-trenazher-prakticheskih-navykov-nemeckogo-po-metodike-poliglotov-dmitrij-gurbatov",
+    "title": "[Deutsche sprache.Тренажёр практических навыков немецкого по методике полиглотов. Дмитрий Гурбатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "erika-vovk-roma-shabala-zhirnyj-target-20-tarif-big-dabl-target-2023",
+    "title": "[Эрика Вовк, Рома Шабала] Жирный таргет 2.0. Тариф Биг Дабл Таргет (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "julija-princ-sozdaj-media-personazha-za-5-shagov-programma-minimum-2025",
+    "title": "[Юлия Принц] Создай медиа-персонажа за 5 шагов. Программа минимум (2025)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mark-vitkovskij-vlad-kucherenko-chto-tam-jutub-2023",
+    "title": "[Марк Витковький, Влад Кучеренко] Что там Ютуб? (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rercon-net-kurs-po-jandeks-dzenu-rerzen-40-2023",
+    "title": "[rercon.net] Курс по Яндекс Дзену Rerzen 4.0 (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "renata-kirilina-nejroset-chatgpt-dlja-nachinajushhih-polnoe-rukovodstvo-ot-a-do-ja-2023",
+    "title": "[Рената Кирилина] Нейросеть ChatGPT для начинающих: полное руководство от А до Я (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "egor-bulygin-ii-assistent-tarif-uchastie-zapis-2023",
+    "title": "[Егор Булыгин] ИИ-ассистент. Тариф Участие + Запись (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nikolaj-kozunov-megapak-dlja-zapuska-cherez-avito-2023",
+    "title": "[Николай Козунов] Мегапак для запуска через Авито (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nadezhda-bogdanova-prodajushhij-lending-2023",
+    "title": "[Надежда Богданова] Продающий лендинг (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anastasija-romanova-marketinghandmade-wildberries-ot-starta-do-milliona-2023",
+    "title": "[Анастасия Романова] [marketinghandmade] Wildberries: от старта до миллиона (2023)",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nabor-v-gruppu-po-obucheniju-celitelstvu-1-mesjac-arina-ableva",
+    "title": "[Набор в группу по обучению Целительству - 1 месяц. Арина Аблаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marafon-po-multivarke-darja-chernenko",
+    "title": "[Марафон по мультиварке. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kulinaraja-shkola-horoshej-hozjajki-darja-chernenko",
+    "title": "[Кулинарная школа Хорошей Хозяйки. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-nauchit-rebenka-pitatsja-pravilno-darja-chernenko",
+    "title": "[Как научить ребенка питаться правильно. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kartochki-s-receptami-dlja-detej-690-sht-darja-chernenko",
+    "title": "[Карточки с рецептами для детей. 690 шт. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "letnij-den-god-kormit-zamorozka-sushka-konservacija-darja-chernenko",
+    "title": "[Летний день год кормит: заморозка, сушка, консервация. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "menju-menedzhment-20-darja-chernenko",
+    "title": "[Меню-менеджмент 2.0 Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "3-bljuda-za-30-minut-darja-chernenko",
+    "title": "[3 блюда за 30 минут. Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alfa-kod-neverbalnyj-jazyk-telodvizhenij-vysshego-statusa-valentin-shishkin-irina-logvinenko",
+    "title": "[Альфа код. Невербальный язык телодвижений высшего статуса. Валентин Шишкин, Ирина Логвиненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "statusnaja-zhenshhina-tarif-bazovyj-valentin-shishkin",
+    "title": "[Статусная женщина. Тариф Базовый. Валентин Шишкин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "povedenie-v-ofise-i-na-peregovorah-valentin-shishkin",
+    "title": "[Поведение в офисе и на переговорах. Валентин Шишкин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shokoladnyj-dekor-mishel-vijom-novikov-school",
+    "title": "[Шоколадный декор. Мишель Вийом, Novikov school]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "protokol-zhkt-premium-svetlana-litvinenko-lana-dietolog",
+    "title": "[Протокол ЖКТ Премиум. Светлана Литвиненко, lana Dietolog]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "syrodel-master-ekaterina-denisova-simone-manfredini-sim-cheese",
+    "title": "[Сыродел-мастер. Екатерина Денисова, Simone Manfredini, Sim Cheese]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "cistemnye-trenirovki-na-prorabotku-vsego-tela-anastasija-maljavina",
+    "title": "[Cистемные тренировки на проработку всего тела. Анастасия Малявина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nehirurgicheskaja-blefaroplastika-tarif-standart-tatjana-kiseleva",
+    "title": "[Нехирургическая блефаропластика. Тариф Стандарт Татьяна Киселева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-pletem-i-tochka-avgust-2024-svetlana-safonova-aleksandra-zulhajdi-ziljara-hamatkhanova-natalja-korneeva",
+    "title": "[Клуб Плетем - и точка! Август 2024 Светлана Сафонова, Александра Зулхайди, Зиляра Хаматханова, Наталья Корнеева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "master-klass-vazy-jachejki-morja-demina_kate_art",
+    "title": "[Мастер-класс «Вазы, Ячейки, Моря». demina_kate_art]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jekstremalno-dlitelnaja-noska-resnic-anna-matushevich",
+    "title": "[Экстремально длительная носка ресниц. Анна Матусевич]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "konturnaja-plastika-ovala-lica-polina-eremina-drpoli",
+    "title": "[Контурная пластика овала лица. Полина Еремина, dr.poli]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "moti-tarif-gotov-i-prodavaj-spec-predlozhenie-kursa-motimejker-aleksandra-filatenko",
+    "title": "[Моти. Тариф Готовь и ПРОдавай. Спец. предложение курса Мотимейкер. Александра Филатенко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "makaron-s-ponizhennym-soderzhaniem-sahara-aleksandra-filatenko-filatenkoschool",
+    "title": "[Макарон с пониженным содержанием сахара. Александра Филатенко filatenkoschool]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-prodazhi-na-avito-ot-shkafa-do-deneg-2023-tarif-samostojatelnyj-anna-gromova",
+    "title": "[Курс продажи на Авито: от шкафа до денег 2023. Тариф Самостоятельный. Анна Громова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "drugie-ja-taro-i-sublichnosti-artem-lebedev",
+    "title": "[Другие «Я». Таро и субличности. Артем Лебедев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "deserty-s-nizkoj-syrevoj-stoimostju-tarif-hochu-vsjo-i-srazu-aleksandra-filatenko-anna-gordeeva",
+    "title": "[Десерты с низкой сырьевой стоимостью. Тариф хочу всё и сразу. Александра Филатенко, Анна Гордеева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "glify-drevnejshie-graficheskie-znaki-irina-stejnar-shkola-kniga-teney",
+    "title": "[Глифы - древнейшие графические знаки. Ирина Стейнар Школа Книга теней]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "taro-tota-1-kurs-1-modul-artem-lebedev",
+    "title": "[Таро Тота - 1 курс - 1 модуль. Артем Лебедев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "strasti-plotskie-artem-lebedev",
+    "title": "[Страсти плотские. Артем Лебедев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sovmestimost-v-otnoshenijah-praktika-artem-lebedev-taro",
+    "title": "[Совместимость в отношениях. Практика. Артем Лебедев Таро]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-po-kaskadnomu-suhomu-golodaniju-tarif-ya-sama-alla-voronkova",
+    "title": "[Курс по Каскадному Сухому Голоданию. Тариф Я Сама. Алла Воронкова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jeklery-ekaterina-polovneva",
+    "title": "[Эклеры. Екатерина Половнева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "videokurs-po-vaflnym-cvetam-lejla-gurjanova",
+    "title": "[Видеокурс по вафельным цветам. Лейла Гурьянова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "soljar-polnaja-instrukcija-k-primeneniju-tarif-standart-evgenij-volokoncev",
+    "title": "[Соляр. Полная инструкция к применению. Тариф Standart+ Евгений Волоконцев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "genij-prodazh-tarif-monstr-prodazh-igor-ryzov-sofja-busurina",
+    "title": "[Гений продаж. Тариф Монстр продаж. Игорь Рызов, Софья Бусурина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikum-20-milliardy-na-marketplejsah-zhivoj-praktikum-tarif-online-dmitrij-kovpak",
+    "title": "[Практикум 2.0. Миллиарды на маркетплейсах. Живой практикум. Тариф Online. Дмитрий Ковпак]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroshamanizm-vasilij-smirnov",
+    "title": "[Нейрошаманизм. Василий Смирнов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dlja-ovladenija-mastersvom-slova-anna-roleva",
+    "title": "[Для овладения мастерством слова. Анна Ролева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-shokoladnaja-vitrina-pavel-sizov",
+    "title": "[Курс Шоколадная витрина. Павел Сизов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vse-sekrety-pechenja-olga-penioza-oleg-hotko-otsutstvuet-urok-4",
+    "title": "[Все секреты печенья. Ольга Пениоза, Олег Хотько Отсутствует урок №4]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chizkejki-jeskimo-roksybakery",
+    "title": "[Чизкейки-эскимо. roksybakery]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sekretnye-fishki-1s-i-excel-dlja-buhgaltera-tarif-zalipaju-samostojatelno-olga-krasnova",
+    "title": "[Секретные фишки 1С и Excel для бухгалтера. Тариф Залипаю самостоятельно. Ольга Краснова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sdelaj-telo-bullet-camp-valentina-puljahina-bulletfit",
+    "title": "[Сделай тело! Bullet Camp. Валентина Пуляхина Bulletfit]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professionalnyj-onlajn-kurs-javascript-uroven-2-18-nojabrja-2019-29-janvarja-2020-ntm-l-academy",
+    "title": "[Профессиональный онлайн‑курс JavaScript, уровень 2. 18 ноября 2019 - 29 января 2020. НТМL Academy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professionalnyj-navyk-razmetka-po-bem-polnyj-komplekt-ntm-l-academy",
+    "title": "[Профессиональный навык. Разметка по БЭМ. Полный комплект. НТМL Academy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fiziognomika-zoloto-svetlana-filatova",
+    "title": "[Физиогномика (Золото). Светлана Филатова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trudnosti-v-uchebe-chem-pomozhet-nejropsiholog-svetlana-filatova",
+    "title": "[Трудности в учебе. Чем поможет нейропсихолог. Светлана Филатова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fiziognomika-platina-svetlana-filatova",
+    "title": "[Физиогномика (Платина). Светлана Филатова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uchenija-i-nastavlenija-mojej-babushki-evdokii-natalja-stepanova",
+    "title": "[Учения и наставления моей бабушки Евдокии. Наталья Степанова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "9000-zagovorov-sibirskoj-celitelnicy-samoe-polnoe-sobranie-natalja-stepanova",
+    "title": "[9000 заговоров сибирской целительницы. Самое полное собрание. Наталья Степанова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trener-skij-kurs-trigger-tarif-baza-alena-pestova",
+    "title": "[Тренерский курс Trigger. Тариф База. Алена Пестова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "svadebnye-presety-beba-vowels-presety-elena-dunaeva-g-presets",
+    "title": "[Свадебные пресеты. Beba Vowels Presets. Елена Дунаева G Presets]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sbornik-magicheskih-metodik-dlja-finansovogo-blagopoluchija-i-izbavlenija-ot-dolgov-elena-dunaeva",
+    "title": "[Сборник магических методик для финансового благополучия и избавления от долгов. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "razbudi-v-sebe-seksualnost-elena-dunaeva",
+    "title": "[Разбуди в себе сексуальность. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pomadnyj-jeffekt-gub-alena-pestova",
+    "title": "[Помадный эффект губ. Алена Пестова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "molodost-strojnost-ocharovanie-elena-dunaeva",
+    "title": "[Молодость. Стройность. Очарование. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "miry-i-rabota-v-nih-elena-dunaeva",
+    "title": "[Миры и работа в них. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mini-trenning-zashhita-elena-dunaeva-magija-dushi",
+    "title": "[Мини-тренинг \"Защита\". Елена Дунаева Магия Души]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "masterskaja-rasklady-vsja-masterskaja-elena-dunaeva",
+    "title": "[Мастерская «Расклады» вся мастерская. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-razvitija-jasnovidenija-4-mesjac-videnie-stihej-elena-dunaeva",
+    "title": "[Клуб развития ясновидения. 4 месяц Видение стихий. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-svechej-elena-dunaeva",
+    "title": "[Магия Свечей. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-vody-elena-dunaeva",
+    "title": "[Магия воды. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "poshagovaja-instrukcija-k-preobrazheniju-anastasija-bolkonskaja",
+    "title": "[Пошаговая инструкция к преображению. Анастасия Болконская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tok-kak-sovershat-vygodnye-shagi-bez-poter-igor-rybakov",
+    "title": "[Ток. Как совершать выгодные шаги без потерь. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sverhvidenie-kirill-malashevskij",
+    "title": "[Сверхвидение. Кирилл Малашевский]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "predprimi-sebja-igor-rybakov",
+    "title": "[Предприми себя. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "porjadok-v-golove-tarif-svoim-hodom-aprel-2021-god-anna-vsehsvjatskaja",
+    "title": "[Порядок в голове. Тариф \"Своим ходом\". Апрель 2021 год. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "porjadok-v-golove-20-mart-2019-anna-vsehsvjatskaja",
+    "title": "[Порядок в голове 2.0. Март 2019. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "otec-kak-vospitat-chempionov-v-sporte-biznese-i-zhizni-igor-rybakov",
+    "title": "[Отец. Как воспитать чемпионов в спорте, бизнесе и жизни. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nabor-iz-10-intellekt-kart-anna-vsehsvjatskaja",
+    "title": "[Набор из 10 интеллект-карт. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sozdanije-unikalnyh-kartinok-i-fotografij-v-nejrosetjah-tarif-vse-srazu-dmitrij-zverev",
+    "title": "[Создание уникальных картинок и фотографий в нейросетях. Тариф Все сразу. Дмитрий Зверев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sozdanije-vasih-kachestvennyh-video-v-domashnih-uslovijah-30-dmitrij-zverev",
+    "title": "[Создание ваших качественных видео в домашних условиях 3.0. Дмитрий Зверев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stanite-dizajnerom-interera-i-poluchite-pervyh-klientov-oleg-kononyhin-diskill",
+    "title": "[Станьте дизайнером интерьера и получите первых клиентов. Олег Кононыхин, DiSkill]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polnyj-paket-darja-trutneva-master-kit",
+    "title": "[Полный пакет. Дарья Трутнева, Master kit]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vdohnovenie-i-motivacija-muzhchiny-tarif-mk-trenning-natalja-gerasimova",
+    "title": "[Вдохновение и мотивация мужчины. Тариф МК+Тренинг. Наталья Герасимова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bytovaja-ne-himija-57-receptov-dlja-chistogo-i-bezopasnogo-doma-olga-larnodi",
+    "title": "[Бытовая НЕ-химия: 57 рецептов для чистого и безопасного дома. Ольга Ларноди]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shkola-specagentov-jeffektivnogo-obuchenija-agent-sledopyt-renata-kirilina",
+    "title": "[Школа спецагентов эффективного обучения. Агент следопыт. Рената Кирилина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trenazher-16-minut-podgotovki-k-shkole-uchus-chitat-renata-kirilina",
+    "title": "[Тренажёр «16 минут подготовки к школе». Учусь читать. Рената Кирилина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trenazher-16-minut-podgotovki-k-shkole-uchus-schitat-renata-kirilina",
+    "title": "[Тренажёр «16 минут подготовки к школе». Учусь считать. Рената Кирилина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trenazher-16-minut-podgotovki-k-shkole-uchus-pisat-renata-kirilina",
+    "title": "[Тренажёр «16 минут подготовки к школе». Учусь писать. Рената Кирилина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "testirovshhik-prostoj-vhod-v-programmirovanie-mihail-djuzhev-cok-nti",
+    "title": "[Тестировщик - простой вход в программирование. Михаил Дюжев ЦОК НТИ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "9-fishek-metoda-toples-kotorye-pomogajut-nabirat-nam-milliony-prosmotrov-jan-lapotkov-toples",
+    "title": "[9 фишек метода топлес которые помогают набирать нам миллионы просмотров. Ян Лапотков Топлес]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sam-sebe-vizazhist-tarif-samostojatelno-marina-gavriliina",
+    "title": "[Сам себе визажист. Тариф Самостоятельно. Марина Гаврилина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "termozameshhenie-tina-panikar-wowbraids",
+    "title": "[Термозамещение. Тина Паникар Wowbraids]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "designwithlove-bazovyj-kurs-po-uiux-dizajnu-kris-anfalova",
+    "title": "[DesignWithLove] Базовый курс по UI/UX дизайну (Крис Анфалова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shkola-zastolnyh-maner-nikolaj-jaremenko-liveclasses",
+    "title": "[Школа застольных манер. Николай Яременко, Liveclasses]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pitanie-pro-20-s-porcijami-i-bljudami-iz-produktov-v-nalichii-avtomaticheskij-spisok-produktov-shablon-notionfan",
+    "title": "[Питание PRO 2.0 с порциями и блюдами из продуктов в наличии. Автоматический список продуктов. Шаблон. NotionFan]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lekcija-moti-teorija-deserta-i-zarabotok-nachinka-moti-dubajskij-shokolad-ekaterina-peregudova-cupketik_good",
+    "title": "[Лекция Моти-теория десерта и заработок + Начинка моти Дубайский шоколад. Екатерина Перегудова, cupketik_good]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tehniki-raboty-s-klientami-kurs-dlja-psihologov-ekaterina-hlomova",
+    "title": "[Техники работы с клиентами. Курс для психологов. Екатерина Хломова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professionalnye-navyki-excel-kurs-po-vladeniju-funkcijami-ivan-plotnikov-udemy",
+    "title": "[Профессиональные навыки Excel: Курс по владению функциями. Иван Плотников Udemy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jekspres-kurs-po-zarabotku-v-telegram-aleksandra-gureeva",
+    "title": "[Экспресс-курс по заработку в Telegram. Александра Гуреева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "celostnost-30-vladimir-drevs-drevs",
+    "title": "[Целостность 3.0. Владимир Древс Drevs]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bogatyj-targetolog-80-nastja-zhuk",
+    "title": "[Богатый таргетолог 8.0. Настя Жук]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "masterskaja-vechnyj-dvigatel-srochnyj-remont-krysh-kukuho-i-krylej-svetlana-patrusheva",
+    "title": "[Мастерская Вечный двигатель. Срочный ремонт Крыш, Кукух и Крыльев. Светлана Патрушева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "predatelstvo-v-ljubvi-elena-veselago",
+    "title": "[Предательство в любви. Елена Веселаго]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uxui-designer-s-0-do-middle-evgenij-kuzmin",
+    "title": "[UX/UI designer с 0 до Middle+. Евгений Кузьмин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tverk-video-uroki-ot-pavlovich-alina-pavljuchenko",
+    "title": "[Тверк - видеоуроки от Павлович. Алина Павлюченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "voskotopka_beauty-evgenija-voskolovich",
+    "title": "[Voskoтопка_beauty. Евгения Восколович]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lazernyj-biznes-anna-milova",
+    "title": "[Лазерный бизнес. Анна Милова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "cel-na-360-mihail-pelehatyj-pavel-aglashevich",
+    "title": "[Цель на 360. Михаил Пелехатый, Павел Аглашевич]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "upravlenie-realnostju-mihail-pelehatyj-jurij-chhechkurin",
+    "title": "[Управление Реальностью. Михаил Пелехатый, Юрий Чечкурин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pulenezprobivaemyj-mihail-pelehatyj",
+    "title": "[Пуленепробиваемый. Михаил Пелехатый]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novogodnie-bukety-i-venki-nikolaj-gagarin-artem-valentinov-gift_cookies",
+    "title": "[Новогодние букеты и венки. Николай Гагарин, Артем Валентинов gift_cookies]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nlp-ot-praktikov-mihail-pelehatyj-mihail-antonchik-institut-sovremennogo-nlp",
+    "title": "[НЛП от практиков. Михаил Пелехатый, Михаил Антончик Институт современного НЛП]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "napoleony-2021-nikolaj-gagarin-artem-valentinov-gift_cookies",
+    "title": "[Наполеоны 2021. Николай Гагарин, Артем Валентинов gift_cookies]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mjagkie-medovye-prjaniki-nikolaj-gagarin-artem-valentinov-gift_cookies",
+    "title": "[Мягкие медовые пряники. Николай Гагарин, Артем Валентинов gift_cookies]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mussovye-torty-tarif-nachinajushhij-aleksandra-shinkarenko-ex_pastry_cook",
+    "title": "[Муссовые торты. Тариф Начинающий. Александра Шинкаренко ex_pastry_cook]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "medovik-orehovyj-tiramisu-nikolaj-gagarin-artem-valentinov-gift_cookies",
+    "title": "[Медовик «Ореховый Тирамису». Николай Гагарин, Артем Валентинов gift_cookies]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stilist-vsjo-o-professii-julija-katkaloo",
+    "title": "[Стилист: всё о профессии. Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stajling-ot-a-do-ja-julija-katkaloo",
+    "title": "[Стайлинг от А до Я. Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "semeynoe-obuchenie-nachalo-renata-kirilina-sergej-kirilin",
+    "title": "[Семейное обучение. Начало. Рената Кирилина, Сергей Кирилин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pravila-vybora-vsego-blok-4-bazovyj-garderob-julija-katkaloo",
+    "title": "[Правила Выбора Всего. Блок 4 «Базовый гардероб». Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pravila-vybora-vsego-blok-3-pravila-sostavlenija-obrazov-julija-katkaloo",
+    "title": "[Правила Выбора Всего. Блок 3 «Правила составления образов». Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pravila-vybora-vsego-blok-2-tipy-figury-julija-katkaloo",
+    "title": "[Правила Выбора Всего. Блок 2 «Типы фигуры». Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pomogatory-jeffektivnogo-obuchenija-renata-kirilina-sergej-kirilin",
+    "title": "[Помогаторы эффективного обучения. Рената Кирилина, Сергей Кирилин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vesenijj-vebinar-2023-julija-katkaloo",
+    "title": "[Весенний вебинар 2023. Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bjudzhet-julija-katkaloo",
+    "title": "[Бюджет. Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "50-aktualnyh-obrazov-julija-katkaloo",
+    "title": "[50 актуальных образов. Юлия Катькало]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jagodnyj-ili-fruktovyj-muss-julija-kuklina",
+    "title": "[Ягодный или фруктовый мусс. Юлия Куклина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shelkovyj-ganash-julija-kuklina",
+    "title": "[Шелковый ганаш. Юлия Куклина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroman-dala-roda-alena-pohodneva",
+    "title": "[НейроМандала Рода. Алена Походнева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "paket-vykroek-la-femine-rimma-peremitina-elena-hlestunova",
+    "title": "[Пакет выкроек La Femine. Римма Перемитина, Елена Хлестунова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tysjachi-celевых-podpischikov-s-reels-tarif-samostojatelnyj-margarita-bylinina",
+    "title": "[Тысячи целевых подписчиков с Reels. Тариф Самостоятельный. Маргарита Былинин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "progrevy-i-reklama-nastja-pixy",
+    "title": "[Прогревы и реклама. Настя Pixy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "intensiv-po-telegram-artem-senatorov",
+    "title": "[Интенсив по Telegram. Артем Сенаторов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shkola-progrevov-i-prodazh-kristina-sofi",
+    "title": "[Школа прогревов и продаж. Кристина Софи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "astrologicheskij-marafon-put-k-strojnosti-veronika-borodina",
+    "title": "[Астрологический марафон Путь к стройности. Вероника Бородина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jesteticheskoe-tejpirovanie-tela-rasshirennyj-paket-6-modulej-valentin-gajt-bbalance",
+    "title": "[Эстетическое тейпирование тела расширенный пакет 6 модулей. Валентин Гайт, BBalance]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kompleksnyj-podhod-k-snizheniju-izbytochnogo-vesa-posredstvom-krosstejpirovanija-valentin-gajt",
+    "title": "[Комплексный подход к снижению избыточного веса посредством кросстейпирования. Валентин Гайт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "m-logo-s-nalogovye-posledstvija-i-riski-zakljuchenija-dogovorov-v-praktike-dogovornoj-raboty-elena-bogdanova-aleksej-dykov",
+    "title": "[М-Логос] Налоговые последствия и риски заключения договоров в практике договорной работы (Елена Богданова, Алексей Дыков)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "skripty-dlja-perepisok-i-prodazh-v-socialnyh-setjah-transkribacija-nastasja-belochkina",
+    "title": "[Скрипты для переписок и продаж в социальных сетях. Транскрибация (Настасья Белочкина)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "administrator-grupp-vkontakte-bystrye-dengi-anton-mihajlov-roman-sharafutdinov",
+    "title": "[Администратор групп Вконтакте. Быстрые деньги (Антон Михайлов, Роман Шарафутдинов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejro-golos-nauchis-govorit-i-pet-ljubym-golosom-na-ljubom-jazyke-ne-raskryvaja-rot-aleksej-stepanov",
+    "title": "[Нейро-Golos Научись говорить и петь любым голосом, на любом языке не раскрывая рот! (Алексей Степанов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "puzzlebrain-kak-sozdat-logotip-v-nejrosetjah-ljudmila-polujanceva",
+    "title": "[Puzzlebrain] Как создать логотип в нейросетях (Людмила Полуянцева)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "puzzlebrain-nejroset-midjourney-s-nulja-ljudmila-polujanceva",
+    "title": "[Puzzlebrain] Нейросеть Midjourney с нуля (Людмила Полуянцева)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bankejki-30-marija-belaja-_mari_bell-domik-torta",
+    "title": "[Банкейки 3.0. Мария Белая _mari_bell, Домик Торта]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dekor-dlja-tortov-20-elena-gnut",
+    "title": "[Декор для тортов 2.0 Елена Гнут]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-kryshki-nachinki-makaron-marija-belaja",
+    "title": "[Курс Крышки+начинки макарон. Мария Белая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kultovyj-britanskij-akcent-hopscotch",
+    "title": "[Культовый британский акцент, HOP&SCOTCH]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anglijskij-vyssokij-uroven-hopscotch",
+    "title": "[Английский: Высокий Уровень, HOP&SCOTCH]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marafon-otkrytyj-medovik-marija-belaja-_mari_bell-domik-torta",
+    "title": "[Марафон Открытый Медовик. Мария Белая _mari_bell Домик Торта]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anglijskij-prodvinutyj-uroven-hopscotch",
+    "title": "[Английский: Продвинутый Уровень, HOP&SCOTCH]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "videourok-chizkejki-na-palochkah-anastasija-politykina",
+    "title": "[Видеоурок Чизкейки на палочках. Анастасия Политыкина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anglijskij-srednij-uroven-hopscotch",
+    "title": "[Английский: Средний Уровень, HOP&SCOTCH]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programmirovanie-baz-dannyh-na-sqlite-konstantin-sheremete",
+    "title": "[Программирование баз данных на SQLite. Константин Шереметьев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programmirovanie-na-php-i-mysql-konstantin-sheremete",
+    "title": "[Программирование на PHP и MySQL. Константин Шереметьев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zimnij-kurs-tarif-samostojatelnoe-prohozhdenie-alla-belousova-vsem-art",
+    "title": "[Зимний курс. Тариф «Самостоятельное прохождение». Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zvezda-instagram-natalja-zueva",
+    "title": "[Звезда Instagram. Наталья Зуева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "grafika-s-razborom-obshhih-oshibok-alla-belousova-vsem-art",
+    "title": "[Графика. С разбором общих ошибок. Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "grafika-20-alla-belousova-vsem-art",
+    "title": "[Графика 2.0. Алла Белоусова Всем Арт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "arhitekturnyj-sketching-20-s-razborom-obshhih-oshibok-alla-belousova-vsemart",
+    "title": "[Архитектурный скетчинг 2.0 с разбором общих ошибок. Алла Белоусова ВсемАрт]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "start-kurs-stilizacija-sjemok-versija-s-obratnoj-svjazju-natalja-zueva-margo-kovika",
+    "title": "[START-КУРС \"Стилизация съемок\". Версия с обратной связью. Наталья Зуева, Марго Ковика]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "100-organazm-azat-valeev",
+    "title": "[100% оргaзм. Азат Валеев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jeho-moego-roda-prikosnovenie-k-realnosti-modul-1-julija-bulbash-taro-guru",
+    "title": "[Эхо Моего Рода. Прикосновение к Реальности. Модуль 1. Юлия Бульбаш Таро - Гуру]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "idealnye-ochki-2023-paket-light-natalja-zueva",
+    "title": "[Идеальные очки 2023. Пакет light. Наталья Зуева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zagadki-mladshih-arkanov-vsjo-tajnoe-stanet-javnym-julija-bulbash-taro-guru",
+    "title": "[Загадки Младших Арканов: Всё тайное Станет Явным. Юлия Бульбаш Таро-Гуру]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sekrety-frilansa-envato-upwork-fiverr-i-linkedin-aleksandr-sokirka-udemy",
+    "title": "[Секреты фриланса: Envato, UpWork, Fiverr и LinkedIn. Александр Сокирка Udemy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rukovodstvo-po-github-actions-aleksandr-sokirka-udemy",
+    "title": "[Руководство по GitHub Actions. Александр Сокирка Udemy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "relsovaja-vojna-zheleznye-dorogi-v-voennoe-vremja-lev-punin-sergej-gurov-konstantin-shildbah",
+    "title": "[Рельсовая война. Железные дороги в военное время. Лев Пунин, Сергей Гуров, Константин Шильдбах]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-chudo-mjach-mrf-lica-i-tela-natalja-anderson-facesculptore",
+    "title": "[Клуб Чудо Мяч. МРФ Лица и Тела. Наталья Андерсон Facesculptore]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kiaj-bagua-trigrammy-nebo-chelovek-zemlja-song-park-kiaido",
+    "title": "[Киай Багуа: Триграммы Небо, Человек, Земля. Сонг Парк kiaido]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-pisat-reglamenty-paket-biznes-stanislav-artymovich-shkola-reglamentov",
+    "title": "[Как писать регламенты. Пакет Бизнес. Станислав Артымович Школа регламентов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-nakachat-jagodicy-doma-programma-trenirovok-na-8-nedel-lana-shi",
+    "title": "[Как накачать ягодицы дома. Программа тренировок на 8 недель. Лана Ши]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-izbavit-sja-ot-morshhin-i-otjokov-s-pomoshhju-tejpirovanija-lica-olga-kabuzan-izibizi",
+    "title": "[Как избавиться от морщин и отёков с помощью тейпирования лица. Ольга Кабузан izibizi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pro-volosy-s-aliej-haevoj-tarif-prodvinutyj-alija-haeva-aliyab_hair",
+    "title": "[PRO Волосы с Алией Хаевой. Тариф Продвинутый. Алия Хаева, aliyab_hair]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "korrekciya-sdvg-66-sposobov-pomoct-detjam-nauchitsja-upravljat-soboj-sosredotochivatsja-i-dostigat-celej-tarif-ja-sam-diljara-sagutdinova-marija-afjan",
+    "title": "[Коррекция СДВГ - 66 способов помочь детям научиться управлять собой, сосредотачиваться и достигать целей. Тариф Я сам. Диляра Сагутдинова, Мария Афян]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prostye-praktiki-na-kolode-lenorman-elena-filippova",
+    "title": "[Простые практики на колоде Ленорман. Елена Филиппова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "upravlenie-realnostju-nina-verkojen",
+    "title": "[Управление реальностью. Нина Веркойен]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bytovoj-orakul-evgenija-breus",
+    "title": "[Бытовой оракул. Евгения Бреус]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikum-sozdanije-jeffektnyh-video-v-sfere-bjuti-antonina-shkarpetina-tonyakino",
+    "title": "[Практикум Создание эффектных видео в сфере Бьюти. Антонина Шкарпетина, tonyakino]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jarkaja-i-poleznaja-azija-tarif-edinyj-jana-netreba-labfood",
+    "title": "[Яркая и полезная Азия.Тариф Единый. Яна Нетреба, Labfood]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "afrolokon-na-karkas-inna-perminova",
+    "title": "[Афролоконы на каркас. Инна Перминова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "trihologija-dlja-brejdera-inna-perminova",
+    "title": "[Трихология для брейдера. Инна Перминова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "probuzhdenie-koldovskoj-sily-slavjanskaja-magija-stanislava-olejnikova",
+    "title": "[Пpoбуждeниe кoлдoвcкой cилы. Cлaвянcкaя Мaгия. Станислава Олейникова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magicheskaja-rabota-s-zerkalom-elena-dunaeva",
+    "title": "[Магическая работа с Зеркалом. Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chakry-sistema-polnoj-prostroejki-2-j-potok",
+    "title": "[Чакры - Система полной простройки. 2-й поток]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "astralnyj-ostrov-chernaja-tverdynja-2023-associazija-atlantida-boris-monosov",
+    "title": "[Астральный Остров Чёрная Твердыня 2023 Ассоциация Атлантида Борис Моносов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sila-predkov-tarif-kod-prednaznachenija-anastasija-anisimova-elena-abakumec-formagiclife",
+    "title": "[Сила предков. Тариф Код предназначения. Анастасия Анисимова, Елена Абакумец Formagiclife]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "udivitelnyj-onlajn-kurs-panija-sheril-porter",
+    "title": "[Удивительный онлайн курс пения. Шерил Портер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sft-fullbody-1-faza-oksana-kilina-irina-zhukova",
+    "title": "[SFT Fullbody. 1 фаза. Оксана Килина, Ирина Жукова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "depressija-vsja-pravda-bez-vody-i-soplej-jana-shtager-psyfaq",
+    "title": "[Депрессия. Вся правда без воды и соплей. Яна Штагер PsyFAQ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "svoboda-ot-strahov-rabota-s-podsoznanie-evgenija-kiseleova",
+    "title": "[Свобода от страхов. Работа с подсознанием. Евгения Киселёва]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "plevat-na-mnenie-okruzhajushhih-polina-suhova",
+    "title": "[Плевать на мнение окружающих. Полина Сухова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "v-tope-korporacija-marketplejsov-nastya_pro_cash-yanadmitrievna3",
+    "title": "[V tope. Корпорация маркетплейсов. nastya_pro_cash, yanadmitrievna3]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lila-igra-menjajushhaja-zhizn-anna-sarkisjan",
+    "title": "[Лила - игра, меняющая жизнь. Анна Саркисян]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "30-gotovyh-postov-po-chernoj-magii-veria_smm",
+    "title": "[30 готовых постов по Черной магии. veria_smm]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uchebnik-spekuljanta-nikita-konev",
+    "title": "[Учебник спекулянта. Никита Конев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "montazh-video-vlad-sabatovskij",
+    "title": "[Монтаж видео. Влад Сабатовский]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "intensiv-po-reklame-wildberries-knopka-bablo",
+    "title": "[Интенсив по рекламе Wildberries. knopka bablo]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-desertov-dlja-detej-mam-kupi-elena-bogdanova-awaken-school",
+    "title": "[Курс десертов для детей \"Мам, купи\". Елена Богданова, Awaken School]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bez-trevog-olesja-bergen",
+    "title": "[Без тревог. Олеся Берген]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-osoznannoj-zhizni-20-podpiska-na-god-julija-kravchenko",
+    "title": "[Клуб осознанной жизни 2.0. Подписка на год. Юлия Кравченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "psihosomatika-v-zhizni-ekaterina-torohova",
+    "title": "[Психосоматика в жизни. Екатерина Торохова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "terapija-vnutrennih-semeynyh-sistem-ifs-rasshirennyj-vvodnyj-kurs-psihodemia",
+    "title": "[Терапия внутренних семейных систем (IFS): расширенный вводный курс. Психодемия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fokusy-jazyka-robert-dilts",
+    "title": "[Фокусы языка. Роберт Дилтс]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marafon-po-dvizheniju-k-celjam-kompas-ed-halilov",
+    "title": "[Марафон по движению к целям Компас. Эд Халилов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-po-rodam-chast-pervaja-promezhnost-i-tazovoe-dno-olga-belokon",
+    "title": "[Курс по родам. Часть первая. Промежность и тазовое дно. Ольга Белоконь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "schaste-est-doma-kniga-bystryh-zhiznennyh-receptov-dlja-nachinajushhih-alena-grechina-vladimir-inzhuvatov-shhiborshhi",
+    "title": "[Счастье есть дома. Книга быстрых жизненных рецептов для начинающих. Алена Гречина, Владимир Инжуватов ЩиБорщи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sup-ribollita-vladimir-inzhuvatov-shhiborshhi",
+    "title": "[Суп риболлита. Владимир Инжуватов ЩиБорщи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sup-kruglyj-god-tarif-gotovlju-sup-kruglyj-god-vladimir-inzhuvatov-rinat-sadykov-shhiborshhi",
+    "title": "[Суп круглый год. Тариф Готовлю суп круглый год. Владимир Инжуватов, Ринат Садыков ЩиБорщи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sekrety-sochnyh-shashlykov-vladimir-inzhuvatov-shhiborshhi",
+    "title": "[Секреты сочных шашлыков. Владимир Инжуватов ЩиБорщи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professija-illustrator-polnyj-paket-jelina-jellis-uroki-illustracii",
+    "title": "[Профессия иллюстратор, полный пакет. Элина Эллис Уроки Иллюстрации]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prodvizhenie-telegram-kanala-s-nulja-ot-texterra-ekaterina-siberjakova-texterra",
+    "title": "[Продвижение Telegram-канала с нуля от TexTerra. Екатерина Сибирякова TexTerra]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ksenija-beljaeva-kbelyaeva_nails",
+    "title": "[! Ксения Беляева kbelyaeva_nails]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "numerologija-zhiznennyj-put-1-elena-dunaeva",
+    "title": "[Нумерология Жизненный путь - 1 Елена Дунаева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "avtorskiy-onlajn-kurs-v-zapisi-mandalyy-taro-sofija-vjurstin-neso-akademie-neso-akademija",
+    "title": "[Авторский онлайн курс в записи Мандалы Таро. София Вюрстлин, NeSo Akademie, Neso академия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ritual-na-ukreplenie-zdorove-dlja-vseh-chlenov-semi-sofija-vjurstin-neso-akademie-neso-akademija",
+    "title": "[Ритуал на укрепление здоровья для всех членов семьи. София Вюрстлин, NeSo Akademie, Neso академия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zakony-starshih-arkanov-sofija-vjurstin-neso-akademie-neso-akademija",
+    "title": "[Законы Старших Арканов. София Вюрстлин, NeSo Akademie, Neso академия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ritual-na-sohranenie-deneg-s-zelenoj-lentoj-sofija-vjurstin-neso-akademie-neso-akademija",
+    "title": "[Ритуал на сохранение денег с зеленой лентой. София Вюрстлин, NeSo Akademie, Neso академия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novogodnie-ritualyy-sofija-vjurstin-neso-akademie-neso-akademija",
+    "title": "[Новогодние ритуалы. София Вюрстлин, NeSo Akademie, Neso академия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "astrologija-dlja-vseh-stanislava-bojarkina",
+    "title": "[Астрология для всех. Станислава Бояркина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mini-kurs-po-dizajnu-kartochek-dlja-wildberries-tarif-prosto-gljanut-nastja-greech",
+    "title": "[Мини-курс по дизайну карточек для Wildberries. Тариф Просто глянуть. Настя Greeч]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "infografika-po-vechtomovu-2025-sdelaj-x2-v-dohode-za-2-mesjaca-tarif-gruppovoe-obuchenie-gleb-vechtomov",
+    "title": "[Инфографика по Вечтомову 2025. Сделай x2 в доходе за 2 месяца. Тариф Групповое обучение. Глеб Вечтомов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "put-na-zad-trenirovki-na-jagodicy-kristina-dumanskaja-my-pole-space",
+    "title": "[Путь на зад: тренировки на ягодицы. Кристина Думанская, My Pole Space]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polnyj-obrazovatelnyj-kurs-rastjazhki-kristina-dumanskaja-my-pole-space",
+    "title": "[Полный образовательный курс растяжки. Кристина Думанская, My Pole Space]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pitanie-i-zagotovki-2025-tarif-samostojatelnyj-tamara-vakulova-ketomuse",
+    "title": "[Питание и заготовки 2025. Тариф Самостоятельный. Тамара Вакулова, ketomuse]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gibkost-i-rastjazhka-2025-julija-bardakova-sekta",
+    "title": "[Гибкость и растяжка 2025. Юлия Бардакова, #Sekta]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vysshaja-shkola-mediciny-synapse",
+    "title": "[Высшая школа медицины. Synapse]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "akademija-fotografii-tarif-nastavnichestvo-igor-brekhov",
+    "title": "[Академия фотографии. Тариф Наставничество. Игорь Брехов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "metod-dopolnenie-tarif-dopolnenie-12-julija-ivlieva",
+    "title": "[Метод. Дополнение. Тариф Дополнение 1+2. Юлия Ивлиева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polevaja-terapija-reshenija-i-tajny-elena-veselago-institut-otkrytogo-polja",
+    "title": "[Полевая терапия: решения и тайны. Елена Веселаго, Институт Открытого поля]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-i-hhat-klientov-i-monetizirovat-svoe-tvorchestvo-viktorija-shubina-viktorija-jarec",
+    "title": "[Как искать клиентов и монетизировать свое творчество. Виктория Шубина, Виктория Ярец]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroseti-dlja-generacii-izobrazhenij-anton-martynov-liveclasses",
+    "title": "[Нейросети для генерации изображений. Антон Мартынов, liveclasses]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "iscelenie-tarif-bazovyj-julija-beljaeva",
+    "title": "[Исцеление. Тариф Базовый. Юлия Беляева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sigmapit-marta-nikolaeva-garina",
+    "title": "[СигмаПит. Марта Николаева-Гарина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "manifestacija-zhelаемogo-prodvinutyj-uroven-nina-verkojen",
+    "title": "[Манифестация Желаемого. Продвинутый уровень. Нина Веркойен]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dumaj-sam-2025-irina-hakamada",
+    "title": "[Думай сам. 2025. Ирина Хакамада]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "brend-strateg-tarif-samostojatelnyj-alisa-jakovleva-sergej-velichkin-design-wonderland",
+    "title": "[Бренд стратег. Тариф Самостоятельный. Алиса Яковлева, Сергей Величкин, Design Wonderland]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alchnye-igry-margothemanager",
+    "title": "[Алчные игры, Margothemanager]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-707-sergej-olar",
+    "title": "[Клуб 7:07. Сергей Оларь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ploskij-zhivot-faktor-strojnosti-avgust-2025-elena-beljaeva",
+    "title": "[Плоский живот. Фактор стройности. Август 2025. Елена Беляева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikum-prodazhi-i-blog-7-shagov-dlja-bystryh-i-legkih-prodazh-tarif-beru-vsjo-kristina-sofi",
+    "title": "[Практикум Продажи и блог - 7 шагов для быстрых и легких продаж. Тариф Беру всё. Кристина Софи]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "samoterapija-dengi-kak-probit-finansovyj-potolok-evgenij-terebenin",
+    "title": "[Самотерапия. Деньги: как пробить финансовый потолок. Евгений Теребенин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vesenjijj-marafon-bez-obratnoj-svjazi-sasha-komovich",
+    "title": "[Весенний марафон. Без обратной связи Саша Комович]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "interernaja-zhivopis-tarif-ja-sama-anna-manjkova-artmak",
+    "title": "[Интерьерная живопись. Тариф: Я сама. Анна Манькова, АртМАК]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prakticheskaja-magija-sigil-afitciya_magisc",
+    "title": "[Практическая магия Сигил. afitciya_magiс]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magicheskie-kvadraty-i-sigily-alina-agida",
+    "title": "[Магические квадраты и сигилы. Алина Агид]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polnyj-kurs-portreta-sonja-lebedeva-aleksandr-zamorin-fotoshkola-druza",
+    "title": "[Полный курс портрета. Соня Лебедева, Александр Заморин, Фотошкола Друзья]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sakralnyj-marketing-tarif-glavnaja-rol-rada-russkih-lilija-nilova",
+    "title": "[Сакральный маркетинг. Тариф Главная роль. Рада Русских, Лилия Нилова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zapasyy-produktov-lekarstv-bytovoj-himii-rassylka-shkoly-horoshej-hozjajki-mart-2022-darja-chernenko",
+    "title": "[Запасы продуктов, лекарств, бытовой химии. Рассылка Школы хорошей хозяйки. март 2022 Дарья Черненко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "konstantin-krylov-stop-caries-school",
+    "title": "[! Константин Крылов Stop Caries School]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "osvobozhdenie-tela-vladimir-makulov",
+    "title": "[Освобождение тела. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "obrabotka-dannyh-iz-grjazi-v-excel-knjazi-aleksej-kolokolov",
+    "title": "[Обработка данных: из грязи в Excel-князи. Тариф - Стандарт. Алексей Колоколов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novejshaja-kollekcija-vika-rakusa-vikisews",
+    "title": "[Новейшая коллекция. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novejshaja-kollekcija-2-vika-rakusa-vikisews",
+    "title": "[Новейшая коллекция-2. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "neskuchnyj-jetiket-ili-chto-nade-t-esli-tebja-ne-priglashali-svetlana-fateeva",
+    "title": "[Нескучный этикет. Или что надеть, если тебя НЕ приглашали. Светлана Фатеева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nemarafon-po-poshivu-korsazha-gera-vika-rakusa-vikisews",
+    "title": "[Немарафон по пошиву корсажа Гера. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nemarafon-po-poshivu-brjuk-jejmi-i-kardigana-shana-vika-rakusa-vikisews",
+    "title": "[Немарафон по пошиву брюк Эйми и кардигана Шана. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "motivacija-prokrastinacija-kompensacija-vladimir-makulov",
+    "title": "[Мотивация. Прокрастинация. Компенсация. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "moi-zdorovye-zubki-galina-krylova-konstantin-krylov",
+    "title": "[Мои здоровые зубки. Галина Крылова, Константин Крылов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mater-klas-po-poshivu-jubki-kameron-vika-rakusa-vikisews",
+    "title": "[Матер-класс по пошиву юбки Кэмерон. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pomoshh-angelov-angeloterapija-ves-kurs-zhanna-nagornaja",
+    "title": "[Помощь Ангелов. Ангелотерапия. Весь курс. Жанна Нагорная]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "aktivacija-samocennosti-marija-kotljrova",
+    "title": "[Активация Самоценности. Мария Котлярова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prodvinutyj-kurs-po-perepiske-tarif-standart-rustam-rezepov-rezepov",
+    "title": "[Продвинутый курс по переписке. Тариф Стандарт. Рустам Резепов Rezepov]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "instruktor-po-dvizheniju-tarif-uspeshnyj-instruktor-yulia_stretch-julja-groshheva",
+    "title": "[Инструктор по движению. Тариф Успешный Инструктор. Yulia.Stretch Юлия Грошева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "razebuli-marafon-po-ulichnoj-i-studijnoj-sjemke-anisimova-galina",
+    "title": "[РАЗЪЕБУЛИ. марафон по уличной и студийной сьемке. Анисимова Галина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "beremennost-i-rodyy-v-raskladah-ci-men-anja-podcherina",
+    "title": "[Беременность и роды в раскладах ци мень. Анна Подчерина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dochke-ot-materi-polnyj-kurs-alena-lebedeva",
+    "title": "[Дочке от матери. Полный курс. Алёна Лебедева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "joga-dlja-beremennyh-legkie-rodyy-puzzlebrain-evgenija-arpipova",
+    "title": "[Йога для беременных: легкие роды. puzzlebrain Евгения Архипова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zdorovaja-zhenshhina-irina-zhgarjova",
+    "title": "[Здоровая женщина. Ирина Жгарёва]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "suhoj-golod-5-7dnej-irika-jem",
+    "title": "[Сухой голод. 5-7дней. Ирика Эм]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "suhoj-golod-rezultatnalico-vera-krasivaja-irika-jem",
+    "title": "[Сухой голод. РезультатНаЛицо Вера Красивая, Ирика Эм]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stop-karies-tarif-bazovyj-dlja-vsej-semi-konstantin-krylov-galina-krylova",
+    "title": "[Stop-Кариес. Тариф Базовый Для всей семьи. Константин Крылов, Галина Крылова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stop-adenoidy-konstantin-krylov-oleg-abramov-stop-caries-school",
+    "title": "[Stop-аденоиды. Константин Крылов, Олег Абрамов Stop Caries School]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "excel-na-steroidah-dax-i-power-query-tarif-vse-sam-aleksej-kolokolov",
+    "title": "[Excel на стероидах: DAX и Power Query. Тариф Все сам. Алексей Колоколов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jekspres-kurs-po-cvetokorrekczii-lutik-vitalij-unzhakov",
+    "title": "[Экспресс-курс по цветокоррекции LUTИК. Виталий Унжаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "piramida-nevroza-vladimir-makulov",
+    "title": "[Пирамида невроза. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "osobennosti-konsultirovanija-detej-i-podrostkov-vladimir-makulov-georgij-borisov",
+    "title": "[Особенности консультирования детей и подростков. Владимир Макулов, Георгий Борисов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "osvobozhdenie-ot-ozhidanij-vladimir-makulov",
+    "title": "[Освобождение от ожиданий. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "orakul-zatmenie-tarif-samouchitel-oksana-gorenceva",
+    "title": "[Оракул Затмение. Тариф Самоучитель. Оксана Горенцева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "normalizacija-vesa-vladimir-makulov",
+    "title": "[Нормализация веса. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novejshie-strategii-raboty-s-rpp-vladimir-makulov",
+    "title": "[Новейшие стратегии работы с РПП. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kontentbuk-kontent-na-million-tarif-hochu-vsjo-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Контентбук. Контент на миллион. Тариф \"\"Хочу всё\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "christmas-stories-art-katrin",
+    "title": "[Christmas stories art. Катрин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "instauniversity-evdokija-lar-evdklar",
+    "title": "[Instauniversity. Евдокия Лар. evdklar]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "iskusstvo-pererozhdenija-kak-stat-toj-kem-vsegda-mechtala-byt-tarif-vip-s-ty-toni",
+    "title": "[Искусство перерождения. Как стать той, кем всегда мечтала быть. Тариф «VIP с Тони». Тони]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "iskusstvo-pererozhdenija-kak-stat-toj-kem-vsegda-mechtala-byt-tarif-hochu-stat-novoj-toni",
+    "title": "[Искусство перерождения. Как стать той, кем всегда мечтала быть. Тариф \"\"Хочу стать новой\"\". Тони]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "iskusstvo-pererozhdenija-kak-stat-toj-kem-vsegda-mechtala-byt-toni",
+    "title": "[Искусство перерождения. Как стать той, кем всегда мечтала быть. Тони]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alhimija-karmy-vanija-markovich",
+    "title": "[Алхимия кармы. Вания Маркович]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chit-kod-obshhenija-stasey-may-stjesi-mjej",
+    "title": "[Чит-код общения. Stasey May, Стэси Мэй]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "matrica-dushi-ili-jenergeticheskij-portret-cheloveka-aleksandra-shobogorova",
+    "title": "[Матрица Души или Энергетический портрет человека. Александра Шобогорова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gotovy-uznat-kak-delat-progrev-na-14-i-30-dnej-i-zarabatyvat-na-jetom-tarif-ja-s-jelinooj-i-trudoustrojstvom-jelina-chebotareva-jelina-zhgenti",
+    "title": "[Готовы узнать, как делать прогрев на 14 и 30 дней и зарабатывать на этом. Тариф Я с Элиной и трудоустройством. Элина Чеботарева Элина Жгенти]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "krijjtor-20-nastja-janb",
+    "title": "[Криэйтор 2.0. Настя Янб]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shkola-professij-dlja-devushek-jelina-chebotareva-jelina-zhgenti-potok-3",
+    "title": "[Школа Профессий для девушек. Элина Чеботарева Элина Жгенти. поток 3]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "osnovy-raboty-s-marketplejsami-alina-goncharenko-aleksandr-chajka",
+    "title": "[Основы работы с маркетплейсами. Алина Гончаренко, Александр Чайка]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikum-ljubvi-k-sebe-tarif-glubokoe-pogruzhenie-diva_venera-ekaterina-malceva-venera-malceva",
+    "title": "[Практикум любви к себе. Тариф - Глубокое погружение. diva.venera Екатерина Мальцева Венера Мальцева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "reels-up-tarif-tugeza-anna-galasheva",
+    "title": "[Reels up. Тариф - Тугеза. Анна Галашева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "reels-bootcamp-20-tarif-vse-pro-reels-aleksandra-pankratova",
+    "title": "[Reels bootcamp 2.0 Тариф Все про reels. Александра Панкратова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zapusti-biznes-na-marketplejsah-s-0-tarif-pro-dvinutyj-semen-lastochkin",
+    "title": "[Запусти бизнес на маркетплейсах с 0. Тариф Pro-двинутый. Семен Ласточкин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "agile-vorkbuk-katerina-lengold",
+    "title": "[Agile-Воркбук. Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "agile-sprint-janvar-2022-katerina-lengold",
+    "title": "[Agile спринт. Январь 2022. Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "agile-life-kak-vyvesti-zhizn-na-novuju-orbitu-ispolzuja-metody-agile-planirovanija-nejrofiziologiju-i-samoko-uching-audiokniga-katerina-lengold",
+    "title": "[Agile life: Как вывести жизнь на новую орбиту, используя методы agile-планирования, нейрофизиологию и самокоучинг. Аудиокнига. Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "agile-life-katerina-lengold",
+    "title": "[Agile Life. Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jemozionalnaja-podderzhka-rebenka-ot-shkolnika-do-studenta-anetta-orlova-selfevolution",
+    "title": "[Эмоциональная поддержка ребёнка (от школьника до студента). Анетта Орлова SelfEvolution]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ustranjajem-morshhiny-na-lbu-darja-orlova-facepilates",
+    "title": "[Устраняем морщины на лбу. Дарья Орлова facepilates]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "devjat-stupenej-predprinimatelstva-nedelja-7-katerina-lengold",
+    "title": "[Девять ступеней предпринимательства «Неделя №7». Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "devjat-stupenej-predprinimatelstva-nedelja-6-katerina-lengold",
+    "title": "[Девять ступеней предпринимательства «Неделя №6». Катерина Ленгольд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "glavnaja-prichina-vseh-boleznej-gipohlorgidrija-darja-orlova-facepilates",
+    "title": "[Главная причина всех болезней - Гипохлоргидрия. Дарья Орлова facepilates]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kvashenarium-fevral-2021-tarif-smart-kulinarnaja-shkola-zozhigaj-sergej-leonov",
+    "title": "[Квашенариум. Февраль 2021.Тариф SMART. Кулинарнаяшкола ЗОЖигай. Сергей Леонов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tehnika-nejtralizacii-ljubogo-podklada-v-vashem-dome-alorija-sobinova",
+    "title": "[Техника нейтрализации любого подклада в вашем доме. Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tehnika-pereklad-bolezni-na-hleb-alorija-sobinova",
+    "title": "[Техника «ПЕРЕКЛАД БОЛЕЗНИ НА ХЛЕБ». Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "telo-vsej-zhizni-julija-egorushhkina",
+    "title": "[Тело всей жизни. Юлия Егорушкина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "runokod-azbuka-nachalnyj-uroven-alorija-sobinova",
+    "title": "[Рунокод: Азбука. Начальный уровень. Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "runicheskij-stav-omolozhenie-serdechno-sosudistoj-sistemy-alorija-sobinova",
+    "title": "[Рунический став «ОМОЛОЖЕНИЕ СЕРДЕЧНО-СОСУДИСТОЙ СИСТЕМЫ». Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "runicheskaja-tehnika-izbavlenija-ot-ljuboj-zavisimosti-alorija-sobinova",
+    "title": "[Руническая техника избавления от любой зависимости. Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "runicheskaja-strategija-privlechenie-klientov-v-biznes-alorija-sobinova",
+    "title": "[Руническая стратегия Привлечение клиентов в бизнес. Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "runicheskaja-strategija-pogruzhenie-v-finansovye-sobytija-alorija-sobinova",
+    "title": "[Руническая стратегия Погружение в финансовые события. Алория Собинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "hudeem-k-letu-vladimir-makulov",
+    "title": "[Худеем к лету. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "universalnaja-metodika-raboty-s-chastjami-lichnosti-po-makulovu-vladimir-makulov",
+    "title": "[Универсальная методика работы с частями личности по Макулову. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "master-klas-po-metodu-vladimira-makulova-vladimir-makulov",
+    "title": "[Мастер-класс по методу Владимира Макулова. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-po-poshivu-palto-dzhun-vika-rakusa-vikisews",
+    "title": "[Курс по пошиву пальто Джун. Вика Ракуса Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chto-nam-meshhaet-pohudet-i-kto-schastlivee-strojnye-ili-polnye-video-transkribacija-alunika-dobrovoljskaja",
+    "title": "[Что нам мешает похудеть и кто счастливее стройные или полные. Видео+транскрибация. Алуника Добровольская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fundament-samocennosti-vladimir-makulov",
+    "title": "[Фундaмент самooценки. Владимир Макулов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "upravlencheskij-uchet-finansovye-dashbordy-na-dannyh-1s-vse-sam-aleksej-kolokolov-aleksej-holev",
+    "title": "[Управленческий учет. Финансовые дашборды на данных 1С. Все сам. Алексей Колоколов, Алексей Холев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nlp-praktik-4-stupen-ready-for-money-alunika-dobrovoljskaja-i-aleksandr-gerasimov",
+    "title": "[НЛП-практик 4 ступень READY FOR MONEY. Алуника Добровольская и Александр Герасимов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "v-plenu-jego-ijun-2022-oleg-bakalov-arcanum",
+    "title": "[В плену эго. Июнь 2022. Олег Бакалов Arcanum]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bystryj-put-dlja-nachinajushhih-v-ba-czy-joey-yap-academy",
+    "title": "[Быстрый путь для начинающих в Ба Цзы. Joey Yap Academy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "boj-s-karmoj-strategija-igry-oleg-bakalov-arcanum",
+    "title": "[Бой с кармой: Стратегия игры. Олег Бакалов Arcanum]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bozhestvennoe-projavlenie-bespereryvnyj-dostup-k-carstvu-izobilija-ajverso-li-joey-yap-academy",
+    "title": "[Божественное проявление: бесперебойный доступ к царству изобилия. Айверсон Ли Joey Yap Academy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "master-klas-po-sozdaniju-kukly-devka-baba-elena-leonteva",
+    "title": "[Мастер-класс по созданию куклы Девка-Баба. Елена Леонтьева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marafon-zhenskogo-vzroslenija-ot-devochki-do-materi-za-28-dnej-elena-leonteva",
+    "title": "[Марафон женского взросления. От Девочки до Матери за 28 дней. Елена Леонтьева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "krutaja-botva-ovoshhi-jeto-ne-garnir-i-ne-salat-iz-pomidorov-elena-savchuk",
+    "title": "[Крутая ботва. Овощи - это не гарнир... и не салат из помидоров. Елена Савчук]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kommercheskie-diagnozy-v-ginekologii-elena-berezovskaja",
+    "title": "[Коммерческие диагнозы в гинекологии. Елена Березовская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kniga-trenning-dlja-zhenshhin-ot-devochki-do-materi-elena-leonteva",
+    "title": "[Книга-тренинг для женщин: От девочки до матери. Елена Леонтьева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dopolnitelnaja-lekcija-k-kursu-zdravstvujte-izobilenie-legalizacija-biznesa-tatjana-rumjanceva",
+    "title": "[Дополнительная лекция к курсу Здравствуй, Изобилие Легализация бизнеса (Татьяна Румянцева)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jefektivnyj-mytarget-ot-a-do-ja-vitalij-steckenko",
+    "title": "[Эффективный MyTarget от А до Я (Виталий Стеценко)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "masshtabiruem-prodazhi-kolossalnoe-masshtabirovanie-2017-s-10-000-do-10-mln-v-mesjac-chast-1-rajjan-dajss",
+    "title": "[Масштабируем продажи (Колоссальное Масштабирование 2017: с $10 000 до $10 млн в месяц часть 1) (Райан Дайсс)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "abc-analiz-prodazh-2-matricy-bcg-i-povesik-podgotovka-assortimenta-ivan-kalin",
+    "title": "[ABC анализ продаж + 2 матрицы BCG и Повесик Подготовка ассортимента (Иван Калин)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-zarabotat-na-marketplejsah-ot-idei-do-starta-na-primere-brenda-rjukzakov-evgenija-sokolova",
+    "title": "[Как заработать на маркетплейсах: от идеи до старта на примере бренда рюкзаков (Евгения Соколова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "etsy-dlja-biznesa-tarif-pro-nikita-malko",
+    "title": "[Etsy для бизнеса.Тариф Pro (Никита Малько)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "edinstvennyj-onlajn-kurs-po-aerosjemke-v-sng-mihail-nilov",
+    "title": "[Единственный онлайн курс по аэросъемке в СНГ (Михаил Нилов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "titanyy-dropshipping-15-000-v-mesjac-paul-j-lipsky",
+    "title": "[Титаны Dropshipping $15 000 в месяц (Paul J Lipsky)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "urok-chizkejki-na-palochke-i-brauni-aleksandra-goloborodko-mycakealeks",
+    "title": "[Урок Чизкейки на палочке и брауни. Александра Голобородько mycakealeks]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kapkejki-klubnichnyj-limonad-aleksandra-goloborodko-my_cake_aleks",
+    "title": "[Капкейки Клубничный лимонад. Александра Голобородько my_cake_aleks]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tort-baunti-aleksandra-goloborodko-mycakealeks",
+    "title": "[Торт Баунти. Александра Голобородько MyCakeAleks]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "meditacii-dlja-budushhih-mamochek-olga-pankova",
+    "title": "[Медитации для будущих мамочек. Ольга Панкова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "daoskie-sekrety-zdorovogo-zachatija-olga-pankova",
+    "title": "[Даосские секреты здорового зачатия. Ольга Панкова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dravotel-nojabr-2021-tarif-sadhu-dmitrij-lapshin",
+    "title": "[дравотел. Ноябрь 2021. Тариф Садху. Дмитрий Лапшин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-klub-umnogo-fitnesa-move-fit-fevral-2024-olga-meljakova-akademija-melo",
+    "title": "[Онлайн-клуб умного фитнеса Move Fit. Февраль 2024. Ольга Мелякова, Академия МЕЛ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-klub-umnogo-fitnesa-move-fit-mart-2024-olga-meljakova-akademija-mela",
+    "title": "[Онлайн-клуб умного фитнеса Move Fit. Март 2024. Ольга Мелякова, Академия МЕЛ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anti-jedzh-jekspert-trener-po-fejsfitnesu-i-estestvennomu-omolozheniju-olga-meljakova-akademija-mela",
+    "title": "[Анти-эйдж эксперт, тренер по фейсфитнесу и естественному омоложению. Ольга Мелякова, Академия МЕЛ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vse-kursy-v-odnom-predlozhenii-put-i-prednaznachenie-tantra-dzhjotish-uroven-zhenskoj-jenergii-nakshatry-golovnaja-bol-astrologa-kali-shankar",
+    "title": "[Все курсы в одном предложении. Путь и предназначение, Тантра-джйотиш, Уровень женской энергии, Накшатры, Головная боль астролога. Кали Шанкар]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vse-3-praktiki-the-praktika-the-praktika-sunmoon-edition-the-praktika-part-3-seksualnaja-sovmestimost-akademija-kali-shankara",
+    "title": "[Все 3 практики. The Практика, The Практика Sun&Moon Edition, The Практика. Part 3 + Сексуальная совместимость Академия Кали Шанкара]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vnutrennij-sterezhn-lagnesha-sasha-shankara-akademija-kali-shankara",
+    "title": "[Внутренний стержень - Лагнеша. Саша Шанкара Академия Кали Шанкара]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "winter-fest-filosofija-jenergoobmena-kali-shankar-akademija-kali-shankara",
+    "title": "[Winter Fest. Философия энергообмена. Кали Шанкар Академия Кали Шанкара]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "the-praktika-kali-shankar-aleksandra-pavlova",
+    "title": "[The Практика. Кали Шанкар, Александра Павлова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ochistitelnye-praktiki-olga-najdenova-arcanum",
+    "title": "[Очистительные практики. Ольга Найденова Arcanum]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-kurs-osoznannye-snovidenija-2020-god-olga-najdenova-arkanum",
+    "title": "[Онлайн курс «Осознанные сновидения», 2020 год. Ольга Найденова Arkanum]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-zapustit-svoj-onlajn-produkt-v-ssha-i-evrope-za-2-mes-i-nachat-prodavat-na-inostrannuju-auditoriju-irina-chelysheva",
+    "title": "[Как запустить свой онлайн продукт в США и Европе за 2 мес и начать продавать на иностранную аудиторию. Ирина Челышева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stop-otedy-tarif-lajt-evgenija-nazimova-stop-klimaks",
+    "title": "[Стоп отёки. Тариф Лайт. Евгения Назимова, Стоп климакс]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "akademija-belochkinoj-big-sale-nastasja-belochkina",
+    "title": "[Академия Белочкиной] Big sale. Настасья Белочкина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "umnyj-fitnes-oksana-roggelin",
+    "title": "[Умный фитнес. Оксана Роггелин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejrofoto-tarif-pro-zarabatyvaj-s-nejrosetjami-ekaterina-nekrasova",
+    "title": "[Нейрофото. Тариф Pro Зарабатывай с нейросетями. Екатерина Некрасова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vechnye-progrevy-i-voronki-v-telegram-margarita-bylinina",
+    "title": "[Вечные прогревы и воронки в Телеграм. Маргарита Былинин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "procentnaja-prognostika-vlada-lebedeva-shirokih",
+    "title": "[Процентная прогностика. Влада Лебедева-Широких]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professionalnoe-konsultirovanie-po-metodu-psihologicheskij-portret-na-osnove-arhetipov-taro-alla-alicija-hshanovskaja",
+    "title": "[Профессиональное консультирование по методу Психологический портрет на основе Архетипов Таро. Алла Алиция Хшановская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "diagnostika-sposobnostej-marjana-romanova",
+    "title": "[Диагностика способностей. Марьяна Романова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sculptor-perezagruzka-tarif-prodvinutyj-jana-borejko-yanamsf",
+    "title": "[Sculptor. Перезагрузка. Тариф Продвинутый. Яна Борейко yanamsf]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "10-shagov-do-ugc-kreatora-tarif-samostojatelnyj-anastasija-havalkina-marija-kicova-avantiina",
+    "title": "[10 шагов до UGC-креатора. Тариф Самостоятельный. Анастасия Хавалкина, Мария Кицова avantiina]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "safari-2025-tarif-hokkajdo-danja-volk-danyavollk",
+    "title": "[Сафари 2025. Тариф Хоккайдо. Даня Волк danyavollk]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gvzdestojanie-s-0-do-mastera-tarif-1-german-shmidt-dmitrij-lunin",
+    "title": "[Гвоздестояние с 0 до Мастера. Тариф 1. Герман Шмидт, Дмитрий Лунин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "analiz-sistem-tarif-aptechka-fjodor-borshheov-anton-davydov-shkola-silnyh-programmистov",
+    "title": "[Анализ систем. Тариф Аптечка. Фёдор Борщёв, Антон Давыдов, Школа сильных программистов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alina-solopova-kurs-po-sozdaniju-kinematografichnyh-korotkih-video-tarif-i-am-an-artis",
+    "title": "[Алина Солопова] - Курс по созданию кинематографичных коротких видео. Тариф: I am an artis]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prosto-o-slozhnom-akademija-prakticheskoj-psihologii-psiintellekt",
+    "title": "[Просто о сложном. Академия практической психологии Псиинтеллект]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "avtorskie-kurs-tatjany-kulievoj-kulieva-kake",
+    "title": "[Авторские курс Татьяны Кулиевой. Кулиева KulievaCake]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mini-kurs-detskooj-i-podrostkooj-kosmetiki-valerija-poljakovski",
+    "title": "[Мини курс детской и подростковой косметики. Валерия Поляковски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "metodicheskoe-posobie-o-bazovom-uhode-valerija-poljakovski",
+    "title": "[Методическое пособие о базовом уходе. Валерия Поляковски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "laktoznyj-udar-valerija-poljakovski",
+    "title": "[Лактозный удар. Валерия Поляковски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zhurnal-metodichka-uhod-za-kozhej-ruk-i-stop-valerija-poljakovski",
+    "title": "[Журнал-методичка Уход за кожей рук и стоп. Валерия Поляковски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zhurnal-metodichka-anti-age-valerija-poljakovski",
+    "title": "[Журнал-методичка «Anti Age». Валерия Поляковски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programma-trenirovok-na-mesjac-anastasija-zolotaja",
+    "title": "[Программа тренировок на месяц. Анастасия Золотая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "presety-natural-julija-bezdar",
+    "title": "[Пресеты Natural. Юлия Бездарь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "presety-muted-julija-bezdar",
+    "title": "[Пресеты Muted. Юлия Бездарь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "presety-downtown-julija-bezdar",
+    "title": "[Пресеты Downtown. Юлия Бездарь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "presety-coffee-julija-bezdar",
+    "title": "[Пресеты Coffee. Юлия Бездарь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polnyj-kurs-po-obrabotke-cvetokoru-i-retushi-tarif-s-kuratorom-lena-dragina",
+    "title": "[Полный курс по обработке, цветокору и ретуши. Тариф С куратором. Лена Драгина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ot-60000-mesjac-na-telegram-kanale-modeli-18-sozdannoj-cherez-nejroset-bez-vlozhenij-neyrogirlai",
+    "title": "[От 60000₽ в месяц на Телеграм-канале модели 18+, созданной через нейросеть без вложений. Neyrogirlai]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tibetskie-mantry-zaklinanija-na-vse-sluchai-zhizni-znahar-kirill",
+    "title": "[Тибетские мантры - заклинания на все случаи жизни. Знахарь Кирилл]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "skazhi-proshhaj-detskim-deficitam-tarif-slushaju-i-uchastvuju-antonina-cvinarija-miin",
+    "title": "[Скажи прощай детским дефицитам. Тариф Слушаю и участвую. Антонина Цвинария МИИН]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sekretnye-usiliteli-svechejnoj-magii-lina-ajn-jelara",
+    "title": "[Секретные усилители свечной магии. Лина Айн Элара]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "putevo-dnaja-zvezda-zhenskogo-prednaznachenija-dengi-s-udovolstviem-viktorija-volevach",
+    "title": "[Путеводная звезда женского предназначения. Деньги с удовольствием. Виктория Волевач]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pohudenie-sobstvennyj-opyt-prepjatstvija-uspeshnye-hitrosti-svetlana-kovaleva-tatjana-sviderskaja-klinika-professora-kalichenko",
+    "title": "[Похудение. Собственный опыт. Препятствия, успешные хитрости. Светлана Ковалева, Татьяна Свидерская Клиника профессора Калинченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "polnyj-kurs-magija-psalmov-paket-platina-lina-ajn-jelara",
+    "title": "[Полный курс «Магия Псалмов». Пакет Платина. Лина Айн Элара]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pechati-moiseja-dlja-deneg-i-zdoroveja-lina-ajn",
+    "title": "[Печати Моисея для денег и здоровья. Лина Айн]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "samosabotazh-viktorija-volevach",
+    "title": "[Самосаботаж. Виктория Волевач]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "meditacija-samogipnoz-viktorija-volevach",
+    "title": "[Медитация Самогипноз. Виктория Волевач]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kompleks-uprazhnenij-prozharka-bedr-2025-tatjana-derjaga",
+    "title": "[Комплекс упражнений: Прожарка бедер 2025. Татьяна Деряга]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "transit-plutona-po-planetam-goroskopa-evgenij-volokoncev",
+    "title": "[Транзит Плутона по планетам гороскопа. Евгений Волоконцев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "urok-tort-morozhenoe-ijul-2023-vera-nikandrova",
+    "title": "[Урок Торт - Мороженое. Июль 2023. Вера Никандрова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "domashnee-morozhenoe-zefirki_marmelad",
+    "title": "[Домашнее мороженое. zefirki_marmelad]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kristall-mikao-usui-brett-bevell",
+    "title": "[Кристалл Микао Усуи. Бретт Бевелл]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ozeleni-svoj-dom-tarif-mne-tolko-posmotret-natali-serova",
+    "title": "[Озелени свой дом. Тариф Мне только посмотреть. Натали Серова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mk-po-sozdaniju-zahvatyvajushhih-reels-kristina-beljaeva",
+    "title": "[МК по созданию захватывающих Reels. Кристина Беляева.]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "easy-tarif-oksijajz-lajt-vera-belaja",
+    "title": "[Easy. Тариф Оксисайз лайт. Вера Белая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "finansovyj-rost-tarif-prodvinutyj-anna-lapina",
+    "title": "[Финансовый рост. Тариф Продвинутый. Анна Лапина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "tochka-rosta-20-tarif-odin-na-odin-s-jekperimentami-viktorija-moldavskaja-vlvlab",
+    "title": "[Точка роста 2.0. Тариф Один на один с экспериментами. Виктория Молдавская, VLVLab]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dofaminovye-shagi-i-am-sport-vladimir-ievlev",
+    "title": "[Дофаминовые шаги I Am Sport. Владимир Иевлев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nefte-trafik-dlja-onlajn-shkol-infotargetolog-vkontakte",
+    "title": "[НефтеТрафик для онлайн-школ] Инфотаргетолог ВКонтакте]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "udaljonaja-rabota-garantirovanno-mihail-zarubin",
+    "title": "[Удалённая работа. Гарантированно (Михаил Зарубин)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sozdaem-lichnyj-brend-na-rynke-truda-lana-koltunova",
+    "title": "[Создаем личный бренд на рынке труда (Лана Колтунова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "beautysmm-academy-magicbrand-tarif-optimalnyj-anastasija-kere",
+    "title": "[Beautysmm academy] MagicBrand. Тариф Оптимальный (Анастасия Кере)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "akademija-target-hunter-polnyj-kurs-po-prodvizheniju-biznesa-vkontakte",
+    "title": "[Академия Target Hunter] Полный курс по продвижению бизнеса ВКонтакте]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-polnostju-obnulit-kreditnuju-istoriju-i-spisat-vse-svoi-dolgi-i-kredity-nikolaj-alfjerov",
+    "title": "[Как полностью обнулить кредитную историю и списать все свои долги и кредиты (Николай Алферов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "assistant-marketplejsov-tarif-profi-anastasija-jakusheva",
+    "title": "[Ассистент маркетплейсов. Тариф Профи (Анастасия Якушева)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-prodajushhih-postov-magnitov-paket-premium-nadezhda-tinskaja",
+    "title": "[Магия продающих постов-магнитов. Пакет Премиум (Надежда Тинская)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "netologija-excel-2019-dmitrij-jakushev",
+    "title": "[Нетология] Excel 2019 (Дмитрий Якушев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "internet-magazin-s-nulja-nachistotu-veronika-bereniche",
+    "title": "[Интернет-магазин с нуля начистоту (Вероника Берениче)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fak-patterny-pochemu-ty-do-sih-por-ne-uspeshen-ne-bogat-ne-vlijatelen-i-ne-schastliv-audiokniga-igor-rybakov",
+    "title": "[ФАК-паттерны. Почему ты до сих пор не успешен, не богат, не влиятелен и не счастлив. Аудиокнига. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uchenie-x10-religija-chistoty-igor-rybakov-2",
+    "title": "[Учение X10. Религия чистоТЫ. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevaju-vse-tajm-menedzhment-dlja-devushek-aprel-2018-anna-vsehsvjatskaja-2",
+    "title": "[Успеваю все: тайм-менеджмент для девушек, апрель 2018. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevaju-vse-fevral-2021-tarif-bazovyj-anna-vsehsvjatskaja-2",
+    "title": "[Успеваю все. Февраль 2021. Тариф Базовый. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevaju-vse-anna-vsehsvjatskaja-akademija-zhenskogo-tajm-menedzhmenta-vremja-v-porjadke-2",
+    "title": "[Успеваю все. Анна Всехсвятская АКАДЕМИЯ ЖЕНСКОГО ТАЙМ-МЕНЕДЖМЕНТА «ВРЕМЯ В ПОРЯДКЕ»]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevajka-na-kuhne-tarif-prodvinutyj-anna-vsehsvjatskaja-vremja-v-porjadke-2",
+    "title": "[Успевайка на кухне. Тариф «Продвинутый». Анна Всехсвятская Время в порядке]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspevajka-na-kuhne-tarif-bazovyj-2019-anna-vsehsvjatskaja-2",
+    "title": "[Успевайка на кухне. Тариф - Базовый. 2019. Анна Всехсвятская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "secret-h10-imet-to-chto-dajot-vse-igor-rybakov-2",
+    "title": "[Secret Х10. Иметь то, что даёт всё. Игорь Рыбаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-za-ruku-s-domi-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"За руку с Доми\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-za-ruku-s-kuratorom-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"За руку с куратором\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-samostojatelnyj-start-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"Самостоятельный старт\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-dengi-sejchas-ili-nikogda-nadin-serovski",
+    "title": "[Делай деньги: Сейчас или никогда. Надин Серовски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "menedzherjata-sentjabrskijj-potok-polina-pushkareva-nioly-nioli",
+    "title": "[Менеджерята. Сентрябрьский поток. Полина Пушкарева nioly Ниоли]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "instaspec-artem-i-liza-miller-elizaveta-miller",
+    "title": "[ИнстаСпец. Артем и Лиза Миллер Елизавета Миллер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mjasnoj-praktikum-po-tovarnomu-biznesu-arsenij-shulgin-nikita-beljaev",
+    "title": "[Мясной практикум по товарному бизнесу. Арсений Шульгин, Никита Беляев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kollekcija-belja-tarif-moj-biznes-viktorija-rakusa-vikisews",
+    "title": "[Коллекция белья. Тариф: Мой бизнес. Виктория Ракуса. Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-nachat-prodavat-i-zarabatyvat-na-wildberries-nariman-sulejmanov",
+    "title": "[Как начать продавать и зарабатывать на Wildberries. Нариман Сулейманов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vygoranie-onlajn-kurs-dlja-teh-kto-ustal-tarif-samostojatelnyj-elena-sonina-marija-danina-mif",
+    "title": "[Выгорание. Онлайн курс для тех, кто устал. Тариф Самостоятельный. Елена Сонина, Мария Данина, МИФ]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "videozaklinanie-3-tipa-celitelskoe-lechenie-pishevaritelja-atlantida",
+    "title": "[Видеозаклинание 3 типа – Целительское – Лечение пищеварения. Атлантида]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "videozaklinanie-3-tipa-lechebnoe-snjatie-proklinij-atlantida",
+    "title": "[Видеозаклинание 3 типа – Лечебное – Снятие проклятий, Атлантида]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "biznes-klub-grani-tarif-praktik-evgenij-tjurin-sojuz-dizajnerov-i-arhitektorov",
+    "title": "[Бизнес-клуб Грани. Тариф Практик. Евгений Тюрин, Союз Дизайнеров и Архитекторов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "makeup-fm-paket-light-irina-golubeva",
+    "title": "[Makeup FM. Пакет Light. Ирина Голубева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jefektivnyj-rekruiter-2023-gjuzel-garaeva",
+    "title": "[Эффективный рекрутер 2023. Гюзель Гараева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "retush-s-pomoshhju-nejrosetej-liza-svet-fotobalt",
+    "title": "[Ретушь с помощью нейросетей. Лиза Свет Фотобал]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "telo-ogon-20-oksana-kilina",
+    "title": "[Тело - огонь 2.0 Оксана Килина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "missija-i-celi-jenergija-zhizni-i-vnutrennie-opory-olga-mir-nejrografika",
+    "title": "[Миссия и цели, энергия жизни и внутренние опоры. Ольга Мир Нейрографика]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroklub-rabota-nad-soboj-nejroijul-olga-mir-nejrografika",
+    "title": "[Нейроклуб. Работа над собой. НейроИюль. Ольга Мир Нейрографика]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shjem-iz-trikotazha-s-nulja-tarif-bazovyj-marija-novoselova-shkola-shitja-foxmaman",
+    "title": "[Шьем из трикотажа с нуля. Тариф Базовый. Мария Новоселова Школа шитья FoxMaman]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "muzhskoe-zdorove-irina-leonidova",
+    "title": "[Мужское здоровье. Ирина Леонидова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-prjamougolnye-torty-tarif-standart-elena-reshetnjak-cake-pro",
+    "title": "[Курс Прямоугольные торты. Тариф Стандарт. Елена Решетняк, Cake pro]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-kurs-po-shelkografii-dasha_aket",
+    "title": "[Онлайн-курс по шелкографии. Dasha.aket]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "superbodyflex-dyshi-i-hudej-pitanie-fedor-zheganin",
+    "title": "[Superbodyflex. Дыши и худей + Питание. Федор Жеганин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prazdnik-vnutri-tarif-vel-dan-masha-shelushhenko-welldone",
+    "title": "[Праздник внутри. Тариф Велдан. Маша Шелушенко, Welldone]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "animacija-v-powerpoint-mihail-kuznecov",
+    "title": "[Анимация в PowerPoint. Михаил Кузнецов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programmirovanie-mozga-nauka-budushhego-idealnye-otnoshenija-jana-jedelshtejn",
+    "title": "[Программирование мозга. Наука будущего. Идеальные отношения. Яна Эдельштейн]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programmirovanie-mozga-nauka-budushhego-imperatrica-jana-jedelshtejn",
+    "title": "[Программирование мозга. Наука будущего. Императрица. Яна Эдельштейн]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vozrastnaja-psihologija-kak-zhit-garmonichno-v-ljubom-vozraste-ekaterina-kra-shennikova-evgenij-kra-shennikov",
+    "title": "[Возрастная психология. Как жить гармонично в любом возрасте. Екатерина Крашенинникова, Евгений Крашенинников]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sklonnost-k-depressii-i-trevoge-tarif-standart-kristina-trofimova",
+    "title": "[Склонность к депрессии и тревоге. Тариф Стандарт. Кристина Трофимова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ja-koncepcija-formula-vashego-ja-tarif-ja-posmotrel-institut-sovremennogo-nlp-mihail-pelehatyj",
+    "title": "[Я-Концепция. Формула вашего я. Тариф Я посмотрел. Институт Современного НЛП Михаил Пелехатый]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jemozionalnaja-neustojchivost-i-zavisimost-ljubov-subbotina",
+    "title": "[Эмоциональная неустойчивость и зависимость. Любовь Субботина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gruppovaja-sessija-291224-julija-ivlieva",
+    "title": "[Групповая сессия 29.12.24 Юлия Ивлиева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "arbitrazh-trafika-cherez-youtube-tarif-bazovyj-aleksandr-puminov",
+    "title": "[Арбитраж трафика через YouTube. Тариф Базовый (Александр Пуминов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rosint-internet-razvedchik-10-aleksandr-timohin",
+    "title": "[rosint] Интернет-разведчик 1.0 (Александр Тимохин)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sdelajte-bystryj-start-v-mlm-biznese-za-6-dnej-aleksandr-bekk",
+    "title": "[Сделайте быстрый старт в МЛМ бизнесе за 6 дней (Александр Бекк)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dohodnyj-biznes-na-e-mail-rassylke-2018-mihail-jakovlev",
+    "title": "[Доходный бизнес на E-mail рассылке (2018) (Михаил Яковлев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kripto-trejding-pro-vjacheslav-bazylev",
+    "title": "[Крипто-трейдинг PRO (Вячеслав Базылев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "timepad-ohota-za-informaciej-v-2021-godu-andrej-masalovich",
+    "title": "[Timepad] Охота за информацией в 2021 году (Андрей Масалович)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "workshop-snimaj-smm-kak-reklamu-irina-belonosova-anastasija-maksimova",
+    "title": "[Workshop. Снимай SMM как рекламу (Ирина Белоносова, Анастасия Максимова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "20-sposobov-prodvigat-partnerki-bez-vlozhenij-natalija-zamjatina",
+    "title": "[20 способов продвигать партнерки без вложений (Наталия Замятина)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "video-prodajushhie-vasi-konsultacii-i-kursy-aleksandr-ampir",
+    "title": "[Видео, продающие ваши консультации и курсы (Александр Ампир)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "-2024",
+    "title": "[? (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "psidvanol-psy20-navigacija-tarif-s-opcijami-2024",
+    "title": "[Псидваноль] [PSY2.0] Навигация. Тариф “С опциями” (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mip-klinicheskaja-psihologija-1010-2023",
+    "title": "[МИП] Клиническая психология – 10/10 (2023)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "psihometrika-zhenskie-addikcii-praktiki-raboty-s-prinjatiem-realnosti-1-den-2024",
+    "title": "[Психометрика] Женские аддикции. Практики работы с принятием реальности. 1 день (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mihail-filjaev-psy20-realizacija-ili-zhizn-2024",
+    "title": "[Михаил Филяев] [PSY2.0] Реализация или жизнь? (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "elena-zhurek-pro-dengi-transformaczionnaja-masterskaja-2024",
+    "title": "[Елена Журек] Про деньги. Трансформационная мастерская (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mark-andreas-nlp-fakultet-sushhnostnaja-transformaczija-osnovy-2024",
+    "title": "[Марк Андреас] [НЛП-Факультет] Сущностная трансформация – основы (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vladimir-makulov-nejrokod-2024",
+    "title": "[Владимир Макулов] Нейрокод (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "olga-demchuk-depressija-i-manija-2024",
+    "title": "[Ольга Демчук] Депрессия и мания (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anton-petrjakov-freshlife-praktikum-osoznannosti-bazovyj-blok-2023",
+    "title": "[Антон Петряков] [FreshLife] Практикум Осознанности. Базовый блок (2023)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "-projektivnye-metodiki-v-taro-marina-anisina-olga-dubenko",
+    "title": "[! Проективные методики в Таро. Марина Анисина, Ольга Дубенко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-ne-taro-tarif-vip-jekspert-dimakova-elizaveta-lissarmass",
+    "title": "[Магия ≠ Таро. Тариф Вип Эксперт. Димакова Елизавета lissarmass]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "intensiv-po-sozdaniju-kartochek-dlja-marketplejsov-s-telefona-tarif-vip-jelina-zhgenti",
+    "title": "[Интенсив по созданию карточек для маркетплейсов с телефона. Тариф VIP. Элина Жгенти]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fundament-lichnosti-tarif-s-kochem-veronika-kromberger",
+    "title": "[Фундамент личности. Тариф С Коучем. Вероника Кромбергер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroseti-i-lichnyj-brend-tarif-kombo-nejrobloger-30-lichnyj-brend-julija-rodochinskaja",
+    "title": "[Нейросети и личный бренд. Тариф Комбо: Нейроблогер 3.0 + Личный бренд. Юлия Родочинская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rukovodstvo-po-fertilnosti-svetlana-mortensen-doclana_mornatural",
+    "title": "[Руководство по фертильности. Светлана Мортенсен doclana.mornatural]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikujushhij-tarolog-2023-tarif-optimalnyj-iren-jakimenko",
+    "title": "[Практикующий таролог 2023. Тариф Оптимальный. Ирен Якименко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dpdg-v-rabote-s-travmami-detstva-viktorija-unterova-world-of-psychology",
+    "title": "[ДПДГ в работе с травмами детства. Виктория Унтерова World of Psychology]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "slavjanskie-runy-jemma-verner",
+    "title": "[Славянские Руны. Эмма Вернер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bolshoj-kurs-reels-2024-artem-senatorov",
+    "title": "[Большой курс Reels 2024. Артем Сенаторов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bele-s-nulja-20-marija-saenko-vikisews",
+    "title": "[Белье с нуля 2.0. Мария Саенко, Vikisews]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "dengi-v-smyslah-marina-vasileva",
+    "title": "[Деньги в смыслах. Марина Васильева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "valentinka-dlja-tvoego-biznesa-sofja-rozhnovskaja",
+    "title": "[Валентинка для твоего бизнеса. Софья Рожновская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "konstruktor-dnja-irina-argentova",
+    "title": "[Конструктор дня. Ирина Аргентова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klyuch-k-podsoznaniju-judzhenija-kvant",
+    "title": "[Ключ к подсознанию. Юджиния Квант]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "stav-dlja-privlechenija-denezhnoj-raboty-i-potoka-klientov-mara-boronina",
+    "title": "[Став для привлечения денежной работы и потока клиентов. Мара Боронина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "potok-rezhim-tvorca-elite-mara-boronina-ljumos-22",
+    "title": "[Поток режим творца. ELITE. Мара Боронина, Люмос 22]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "taro-praktika-algoritmy-gadanija-delaite-prognozy-v-2-raza-tochnee-sergej-savchenko",
+    "title": "[Таро практика. Алгоритмы гадания. Делайте прогнозы в 2 раза точнее. Сергей Савченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nauchites-snimat-negativ-v-domashnih-uslovijah-sergej-savchenko",
+    "title": "[Научитесь снимать негатив в домашних условиях. Сергей Савченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-namerenija-sergej-savchenko",
+    "title": "[Магия намерения. Сергей Савченко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kitajj-bez-posrednikov-marija-polonskaja",
+    "title": "[Китай без посредников. Мария Полонская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "intellekt-karty-po-44-fz-evgenij-bobyishev",
+    "title": "[Интеллект-карты по 44-ФЗ (Евгений Бобышев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-vybrat-pribylnuju-nishu-i-zapustit-biznes-na-marketplejsah-iz-doma-valerija-tetenkina",
+    "title": "[Как выбрать прибыльную нишу и запустить бизнес на маркетплейсах из дома (Валерия Тетенькина)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pervaja-onlajn-shkola-reels-mejkerov-tarif-onlajn-professija-reels-mejker-anna-pismennaja",
+    "title": "[Первая онлайн-школа Reels-мейкеров. Тариф Онлайн профессия Reels-мейкер (Анна Письменная)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "adekvatnyj-direkt-2021-god-tarif-s-podderzhkoj-nikita-strokov",
+    "title": "[Адекватный Директ. 2021 год. Тариф С поддержкой (Никита Строков)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "praktikum-po-zapusku-i-monetizacii-jekspertnogo-bloga-20-2021-evgenija-kolesova",
+    "title": "[Практикум по запуску и монетизации экспертного блога 2.0. 2021 (Евгения Колесова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "jandeks-praktikum-delovaja-kommunikacija-dlja-nachinajushhih-rukovoditelej",
+    "title": "[Яндекс-практикум] Деловая коммуникация для начинающих руководителей]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chat-bot-master-20-tarif-polnyj-zushi-pletnev",
+    "title": "[Чат-бот Мастер 2.0. Тариф Полный (Зуши Плетнев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-napisat-i-izdat-bestseller-irina-gusinskaja",
+    "title": "[Как написать и издать бестселлер (Ирина Гусинская)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prenatalnaja-i-perinatalnaja-psihologija-tam-gde-zarozhdaetsja-lichnost-elena-zhurek-mip",
+    "title": "[Пренатальная и перинатальная психология. Там где зарождается личность. Елена Журек МИП]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prakticheskijj-vebinar-vozdushnye-strelochki-olga-firsova",
+    "title": "[Практический вебинар Воздушные стрелочки. Ольга Фирсова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "postanovka-protivostojanie-dlja-detej-810-let-viktorija-janchevskaja-aleksandr-isakov",
+    "title": "[Постановка «Противостояние» для детей 8–10 лет. Виктория Янчевская, Александр Исаков]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "naczionalnaja-konferencija-alternativnogo-mnenija-navita-nadezhda-asanova-vitalina-kriger",
+    "title": "[Национальная конференция альтернативного мнения «Навита». Надежда Асанова, Виталина Кригер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "missija-i-realizacja-vitalina-kriger-akademija-gzho",
+    "title": "[Миссия и реализация. Виталина Кригер Академия ГЖО]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lager-pro-reklamy-20-vjacheslav-malyh",
+    "title": "[Лагерь PRO Рекламы 2.0. Вячеслав Малых]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kniga-grani-zhenskoj-otvetstvennosti-nadezhda-asanova-vitalina-kriger",
+    "title": "[Книга «Грани Женской Ответственности». Надежда Асанова, Виталина Кригер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zefirnyj-intensiv-50-anna-koval",
+    "title": "[Зефирный интенсив 5.0. Анна Коваль]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ljubov-zhivet-tri-goda-a-chto-daalshe-elena-zhurek",
+    "title": "[Любовь живет три года? А что дальше? Елена Журек]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vse-master-klasy-smelom-rasprodazha-smelom",
+    "title": "[Все мастер-классы Smelom. Распродажа. Smelom]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vorkbuk-20-po-prodazham-nelli-armani",
+    "title": "[Воркбук 2.0 по продажам. Нелли Армани]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "avtorskiy-praktikum-po-progrevam-i-scenarijam-v-stories-diana-eroklinecva",
+    "title": "[Авторский практикум по прогревам и сценариям в Stories. Диана Ероклинцева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "boevoj-kopirajting-tatjana-fisher",
+    "title": "[Боевой копирайтинг. Татьяна Фишер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "videomood-70-tarif-standart-tatjana-mironova-mironova_ph",
+    "title": "[VideoMood 7.0. Тариф Стандарт. Татьяна Миронова mironova.ph]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "so-skorostju-svetloj-tarif-skorostnoj-2021-sofja-svetlaja",
+    "title": "[Со Скоростью Светлой. Тариф - Скоростной 2021. Софья Светлая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "transformaczionnyj-ko-uching-ko-uch-praktik-icta-tarif-professional-elena-nemkova",
+    "title": "[Трансформационный коучинг. Коуч-Практик ICTA. Тариф Профессионал. Евгения Немкова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alhimija-veb-dizajna-2021-ivan-zavaliko",
+    "title": "[Алхимия веб-дизайна, 2021. Иван Завалко]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "taplink-mood-tarif-na-maksimum-marina-pustovalova",
+    "title": "[Taplink Mood. Тариф На максимум. Марина Пустовалова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sozдавaj-instagram-foto-i-video-dlja-brendov-na-mobilnyj-telefon-yourfirstlove",
+    "title": "[Создавай Instagram фото и видео для брендов на мобильный телефон. yourfirstlove]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "-darina-vysoczkaja",
+    "title": "[! Дарина Высоцкая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anatomicheskie-poezda-v-dvizhenii-anna-seliverstova-aleksandra-kibzij-artofmotion",
+    "title": "[Анатомические поезда в движении. Анна Селиверстова, Александра Кибзий Artofmotion]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "wow-trenning-marija-seliverstova",
+    "title": "[WOW-тренинг. Мария Селиверстова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rehab-paket-princessa-marija-seliverstova",
+    "title": "[REHAB. Пакет \"\"Принцесса\"\". Мария Селиверстова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "meal-preap-ili-soberi-edu-zaranee-marija-seliverstova",
+    "title": "[Meal Preap или собери еду заранее. Мария Селиверстова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "15-planov-bystryh-prodazh-ljuboj-nedvizhimosti-maksim-marshalk-century21",
+    "title": "[15 планов быстрых продаж любой недвижимости. Максим Маршал Сentury21]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fizika-uglublennyj-kurs-s-reshenijami-i-ukazanijami-vladimir-makarov-ekaterina-vishnjakova",
+    "title": "[Физика. Углубленный курс с решениями и указаниями. Владимир Макаров, Екатерина Вишнякова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uspeshnaja-chastnaja-praktika-bazovyj-paket-marina-semiletkina-world-of-psychology",
+    "title": "[Успешная частная практика. Базовый пакет. Марина Семилеткина World of Psychology]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kolristika-alesja-teperikova-teperikova-hair-studio-education",
+    "title": "[Колористика. Алеся Теперикова Teperikova Hair Studio & Education]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chekap-dlja-zhenshhin-ot-30-do-49-let-new-julija-trifonova-simply4joy",
+    "title": "[Чекап для женщин от 30 до 49 лет New. Юлия Трифонова simply4joy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "chekap-dlja-zhenshhin-50-do-65-let-julija-trifonova-simply4joy",
+    "title": "[Чекап для женщин 50 до 65 лет. Юлия Трифонова simply4joy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "teta-praktiki-otkrytie-albert-romanov",
+    "title": "[Тета-Практики. Открытие. Альберт Романов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "instrumenty-besplatnogo-prodvizhenija-rije-ltorskih-uslug-v-internete-aleksej-grishin-century21",
+    "title": "[Инструменты бесплатного продвижения риэлторских услуг в интернете. Алексей Гришин Century21]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "duhovnoe-reshenie-problem-albert-romanov",
+    "title": "[Духовное решение проблем. Альберт Романов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "germanija-posle-vtorojj-mirovoj-vojny-arkadij-romanov-pravoe-polusharije-introverta",
+    "title": "[Германия после Второй мировой войны. Аркадий Романов Правое полушарие интроверта]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "britanskie-kolonii-istorija-arkadij-romanov-level-one",
+    "title": "[Британские колонии: история. Аркадий Романов Level One]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bolshye-prodazhi-v-fitnese-lilija-linnik-linnik-fitnes",
+    "title": "[Большие продажи в фитнесе. Лилия Линник linnik-fitness]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "anti-kovid-20-julija-trifonova-simply4joy",
+    "title": "[Анти-ковид 2.0. Юлия Трифонова simply4joy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "angeljskie-jenergii-tarif-prodvinutyj-albert-romanov",
+    "title": "[Ангельские Энергии. Тариф Продвинутый. Альберт Романов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "alena-starovojtova-praktikum-prinjatija-tarif-bazovyj-2024",
+    "title": "[Алена Старовойтова] Практикум принятия. Тариф Базовый (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "e-sidorenko-uslugi-psihologa-onlajn-kak-sozdat-cifrovoj-produkt-i-zarabatyvat-na-nem-2024",
+    "title": "[Е. Сидоренко] Услуги психолога онлайн. Как создать цифровой продукт и зарабатывать на нем (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "katerina-suratova-psihоanaliticheskijj-kinoklub-razbor-filma-spletene-sudeb-2024",
+    "title": "[Катерина Суратова] [Психоаналитический киноклуб] Разбор фильма Сплетение судеб (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "katerina-suratova-psihоanaliticheskijj-kinoklub-razbor-filma-ljubovnoe-nastroenie-2024",
+    "title": "[Катерина Суратова] [Психоаналитический киноклуб] Разбор фильма Любовное настроение (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vsevolod-zelenin-kinokouching-platforma-2024",
+    "title": "[Всеволод Зеленин] Кинокоучинг Платформа (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "and-rej-makarov-prjamaja-rech-iskusstvo-zadavat-voprosy-2024",
+    "title": "[Андрей Макаров] [Прямая речь] Искусство задавать вопросы (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejrografika-olga-mir-masterrklas-granicy-2023",
+    "title": "[Нейрографика] Ольга Мир ― Мастер-класс «Границы» (2023)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "obuchajushhijj-onlajn-kurs-po-montazhu-i-postproddakshnu-ot-sabatovskogo-hohlov-sabatovskijj",
+    "title": "[Обучающий онлайн-курс по монтажу и постпродакшну от Сабатовского. Хохлов Сабатовский]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nastojashhaja-trenirovka-mozga-shtdy",
+    "title": "[Настоящая тренировка мозга ShtDY]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "morozhenoe-anna-koval",
+    "title": "[Мороженое. Анна Коваль]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mikronidling-i-prodazhi-paket-lajt-svetlana-smoljanski-cosvetics-school",
+    "title": "[Микронидлинг и продажи. Пакет Лайт. Светлана Смолянски Cosvetics School]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marketplejsy-dlja-proizvoditelej-elena-menshenina-anna-kunova-roman-cedov",
+    "title": "[Маркетплейсы для производителей. Елена Меньшенина, Анна Кунова, Роман Цедов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "korolevskaja-osanka-i-zdorovaja-spina-2021-veronika-vasilevich-vvprofitness",
+    "title": "[Королевская осанка и здоровая спина 2021. Вероника Василевич vvprofitness]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "depressija-stadii-simptomy-tehniki-raboty-elena-zhurek",
+    "title": "[Депрессия. Стадии, симптомы, техники работы. Елена Журек]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "babijj-kejs-nadezhda-asanova-vitalina-kriger",
+    "title": "[Бабий Кейс. Надежда Асанова, Виталина Кригер]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "fmd-dieta-imitirujushhaja-golodanie-polnaja-programma-fmd-chistoe-pitanie-evgenija-krylova",
+    "title": "[Fmd. Диета, имитирующая голодание. Полная программа FMD + Чистое питание. Евгения Крылова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-kurs-po-shelkografii-dasha_aket-2",
+    "title": "[Онлайн-курс по шелкографии. Dasha.aket]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "superbodyflex-dyshi-i-hudej-pitanie-fedor-zheganin-2",
+    "title": "[Superbodyflex. Дыши и худей + Питание. Федор Жеганин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prazdnik-vnutri-tarif-vel-dan-masha-shelushhenko-welldone-2",
+    "title": "[Праздник внутри. Тариф Велдан. Маша Шелушенко, Welldone]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "animacja-v-powerpoint-mihail-kuznecov-2",
+    "title": "[Анимация в PowerPoint. Михаил Кузнецов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ponchiki-kapkejki-ketocake39-shkola-nizkouglerodnyh-desertov",
+    "title": "[Пончики-Капкейки. ketocake39 Школа Низкоуглеводных Десертов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klassicheskijj-massazh-lica-tatjana-kurchina",
+    "title": "[Классический массаж лица. Татьяна Курчина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "deti-v-derevne-marfusha-maika-polosataja",
+    "title": "[Дети в деревне Марфуша. Maika Polosataya]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sbornik-chizkejkoj-barhatnaja-osen-ekaterina-peregudova-cupketik",
+    "title": "[Сборник чизкейков Бархатная осень. Екатерина Перегудова, cupketik]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sinastrija-astrologija-sovmestimosti-osi-mira-chast-1-aleksej-goloushkin",
+    "title": "[Синастрия. Астрология совместимости. Оси Мира. Часть 1. Алексей Голоушкин]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sketching-bjudzhetnymi-markerami-tarif-bez-obratnoj-svjazi-polina-abdulaeva-hudozhnik-onlajn",
+    "title": "[Скетчинг бюджетными маркерами. Тариф Без обратной связи. Полина Абдулаева Художник Онлайн]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "execution-reguljarnyj-menedzhment-dlja-racionalnyh-rukovoditelej-aleksandr-fridman-siner-gija",
+    "title": "[Execution: Регулярный менеджмент для рациональных руководителей. Александр Фридман Синергия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "haos-menedzhment-jefektivnoe-upravlenie-v-uslovijah-neopredelennosti-aleksandr-fridman-siner-gija",
+    "title": "[Хаос-менеджмент: эффективное управление в условиях неопределённости. Александр Фридман Синергия]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "upravlenie-vyborom-podchinennyh-majj-2021-aleksandr-fridman",
+    "title": "[Управление выбором подчиненных. Май 2021. Александр Фридман]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "problemaka-finalnyh-scen-proizvedenij-kursy-pisatelskogo-masterstva",
+    "title": "[Проблематика финальных сцен произведений. Курсы писательского мастерства]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pozhirateli-vremeni-kak-izbavit-ot-lishnejj-raboty-sebja-i-sotrudnikov-audiokniga-aleksandr-fridman",
+    "title": "[Пожиратели времени.Как избавить от лишней работы себя и сотрудников. Аудиокнига. Александр Фридман]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-obuchenie-dlja-pisatelej-zhanr-fantastika-kursy-pisatelskogo-masterstva",
+    "title": "[Онлайн-обучение для писателей. Жанр - Фантастика. Курсы писательского мастерства]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-kurs-dlja-pisatelej-dialogi-kursy-pisatelskogo-masterstva",
+    "title": "[Онлайн-курс для писателей Диалоги. Курсы писательского мастерства]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "balance-baby-tarif-s-obratnoj-svjazju-julija-halikova-yuliamillkiss",
+    "title": "[Balance baby. Тариф С обратной связью. Юлия Халикова, yuliamillkiss]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "metodologija-tarif-bazovyj-mihail-dashkiev",
+    "title": "[Методология. Тариф Базовый. Михаил Дашкиев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "hakni-reels-c-julej-golyginoj-40-tarif-hochu-s-podderzhkoj-julija-golygina",
+    "title": "[Хакни Reels c Юлей Голыгиной 4.0. Тариф Хочу с поддержкой. Юлия Голыгина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bolshje-chem-reels-tarif-ja-zarabotat-evgenija-porohina",
+    "title": "[Больше чем Reels. Тариф Я заработать. Евгения Порохина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "obuchenije-metodu-50-tarif-bazovyj-julija-ivlieva",
+    "title": "[Обучение методу 5.0. Тариф Базовый. Юлия Ивлиева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "spasatelnyj-krug-tarif-samostojatelnyj-julija-zhukova",
+    "title": "[Спасательный круг. Тариф Самостоятельный. Юлия Жукова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kurs-nizhnee-bele-20-cutsew",
+    "title": "[Курс Нижнее бельё 2.0, cut&sew]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kvantovyj-skachok-tarif-standart-anna-grinkova",
+    "title": "[Квантовый скачок. Тариф Стандарт. Анна Гринькова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vystupajj-legko-tarif-buki-marija-sandler-shkola-rechi-glagol",
+    "title": "[Выступай легко. Тариф Буки. Мария Сандлер, Школа речи Глаголь]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "taro-witch-tarif-gold-olga-jakubovich",
+    "title": "[Таро witch. Тариф Gold. Ольга Якубович]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magic-brand-tarif-optimalnyj-ijul-2021-anastasija-kere",
+    "title": "[Magic Brand. Тариф - Оптимальный. Июль 2021. Анастасия Кере]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pervyj-klub-ljubitelej-vygodnogo-shopiga-v-ssha-ekaterina-gorbacheva",
+    "title": "[Первый клуб любителей выгодного шопинга в США. Екатерина Горбачева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "idealnoe-nizhnee-bele-selftailor",
+    "title": "[Идеальное нижнее белье. Selftailor]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "onlajn-shkola-ot-idei-do-zapuska-julija-rodochinskaja-julia-marketing",
+    "title": "[Онлайн-школа: от идеи до запуска. Юлия Родочинская, Julia Marketing]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "money-making-darja-ruzanova-ruzaone",
+    "title": "[Money Making. Дарья Рузанова, ruzaone]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "abmind-money-40-aleksandra-beljakova-ab_agency",
+    "title": "[AB.Mind Money 4.0. Александра Белякова, AB.AGENCY]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kak-zakryt-klienta-kristina-dmitrieva-tishbyme",
+    "title": "[Как закрыть клиента. Кристина Дмитриева Tishbyme]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "pribilnaja-onlajn-shkola-natalja-panova",
+    "title": "[Прибыльная онлайн-школа. Наталья Панова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "myshlenie-millionera-gusejn-gasanov",
+    "title": "[Мышление миллионера. Гусейн Гасанов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "formula-targeta-dlja-infoproduktov-and-rej-mizev",
+    "title": "[Формула таргета для инфопродуктов. Андрей Мизев]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "poluchi-poshagovyj-plan-kak-startan-s-0-do-50k-v-onlajn-za-5-dnej-alex_brain",
+    "title": "[Получи пошаговый план, как стартануть с 0 до 50к в онлайне за 5 дней. Alex_brain]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "niidpo-viktorija-pustylnikova-priznaki-nezdorovyh-otnoshenij-2024",
+    "title": "[НИИДПО] Виктория Пустыльникова — Признаки нездоровых отношений (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "and-rej-cygangkov-mentalnyj-nastr-oj-2024",
+    "title": "[Андрей Цыганков] Ментальный настрой (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "aleksandra-vilvovskaja-kursy-pro-tel-esnost-teorija-praktika-2024",
+    "title": "[Александра Вильвовская] Курсы про телесность. Теория + Практика (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "and-rej-gostryj-dmitrij-janin-irina-malceva-i-dr-uom-nejroko-uch-stupen-1-modul-1-2024",
+    "title": "[Андрей Гострый, Дмитрий Занин, Ирина Мальцева и др.] [УОМ] Нейрокоуч. Ступень 1. Модуль 1 (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "elena-veselago-profi-fast-track-travma-i-pereplet-eie-chem-nachat-rabotu-2023",
+    "title": "[Елена Веселаго] Profi Fast Track. Травма и переплетение: с чего начать работу (2023)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "mihail-filjaev-psy20-poterja-blizkih-obretenie-sebja-2024",
+    "title": "[Михаил Филяев] [PSY2.0] Потеря близких. Обретение себя (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "marija-volkova-svoboda-byt-soboj-2024",
+    "title": "[Мария Волкова] Свобода быть собой (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "blogozjakha-margarita-baburina-vash-plan-zaboty-o-sebe-2024",
+    "title": "[Блогозяйка] Маргарита Бабурина — Ваш план заботы о себе (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "natalja-prijmachenko-integracja-teni-2024",
+    "title": "[Наталья Приймаченко] Интеграция Тени (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "novaja-zhizn-finansovyj-marafon-valerija-chekalina-ler_chek",
+    "title": "[Новая жизнь. Финансовый марафон. Валерия Чекалина, ler_chek]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "shkola-internet-professij-botanovna-like-job-botanovna",
+    "title": "[Школа интернет-профессий Botanovna like job. Ботановна]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-za-ruku-s-domi-dominic__ana-domi-dominikana-bydomi-2",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"За руку с Доми\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-za-ruku-s-kuratorom-dominic__ana-domi-dominikana-bydomi-2",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"За руку с куратором\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-stories-delaj-dengi-oktjabr-2020-tarif-samostojatelnyj-start-dominic__ana-domi-dominikana-bydomi-2",
+    "title": "[Делай Stories, делай деньги. Октябрь 2020. Тариф \"\"Самостоятельный старт\"\". dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "delaj-dengi-sejchas-ili-nikogda-nadin-serovski-2",
+    "title": "[Делай деньги: Сейчас или никогда. Надин Серовски]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "menedzherjata-sentjabrskijj-potok-polina-pushkareva-nioly-nioli-2",
+    "title": "[Менеджерята. Сентрябрьский поток. Полина Пушкарева nioly Ниоли]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ladies-school-v-otnoshenija-na-shpiljah-25-potok-perezapisano-tarif-rezultat-inna-de-almeida",
+    "title": "[Ladies School] В отношения на шпильках. 25 поток. Перезаписан. Тариф Результат (Inna de Almeida)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "i-promise-40-alunika-dobrovoljskaja",
+    "title": "[I Promise 4.0 (Алуника Добровольская)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kognitivnye-ishhenija-kak-mozg-obmanyvaet-nas-tarif-bazovyj-konstantin-sheremete",
+    "title": "[Когнитивные искажения: как мозг обманывает нас. Тариф Базовый (Константин Шереметьев)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "po-motivam-trilbi-polnyj-kurs-jefektivnogo-ulichnogo-gipno-tizma-chast-1-iz-2-jentonikh-zhakuin",
+    "title": "[По мотивам Трилби. Полный курс эффективного уличного гипнотизма. Часть 1 из 2 (Энтони Жакуин)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "adronnyj-kollajder-60-vladimir-makulov",
+    "title": "[Адронный коллайдер 6.0 (Владимир Макулов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prokrastinacija-uberi-prjamo-sejchas-vsego-za-15-minut-darja-sharova",
+    "title": "[Прокрастинация. Убери прямо сейчас всего за 15 минут (Дарья Шарова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prjamaja-rech-kak-ponjat-s-kem-imeesh-deelo-akkentuacii-haraktera-i-instrukczii-k-nim-katerina-murashova",
+    "title": "[Прямая речь] Как понять, с кем имеешь дело. Акцентуации характера и инструкции к ним (Катерина Мурашова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magicheskie-slugi-sozdanije-sobstvennyh-duhov-prisluzhnikov-dlja-privlechenija-blagopoluchija-okazyvanija-vlijanija-i-poluchenija-udovolstvij-dejmon-brend",
+    "title": "[Магические слуги: создание собственных духов-прислужников для привлечения благополучия, оказывания влияния и получения удовольствий. Дэймон Брэнд]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "bystryj-start-jeksperta-v-onlajn-mihail-hristosenko-anna-demidova",
+    "title": "[Быстрый старт эксперта в онлайне. Михаил Христосенко, Анна Демидова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "uglublennaja-prorabotka-temy-ljubvi-i-seksa-v-taro-18-ksandra_tarotherapy",
+    "title": "[Углубленная проработка темы любви и секса в таро. 18+. ksandra_tarotherapy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "progno-stika-v-taro-ksandra_tarotherapy",
+    "title": "[Прогностика в таро. ksandra_tarotherapy]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sverhsposobnost-nina-verkojen",
+    "title": "[Сверхспособность. Нина Веркойен]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "papa-i-mama-pro-julija-hadarczeva",
+    "title": "[Папа и мама PRO. Юлия Хадарцева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prognoz-2024-astrogrig",
+    "title": "[Прогноз 2024. astrogrig]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "orakul-sim-bolon-polnyj-kurs-obuchenija-aleksej-ignatov",
+    "title": "[Оракул Симболон. Полный курс обучения. Алексей Игнатов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kristallnaja-magija-nina-snopova",
+    "title": "[Кристальная магия. Нина Снопова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "programmy-v-matricze-dushi-aleksandra-kalenberg",
+    "title": "[Программы в матрице души. Александра Каленберг]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "motivacija-zapusti-v-sebe-jadernyj-reaktor-chast-1-i-2-oksana-bachinskaja",
+    "title": "[Мотивация: \"\"Запусти в себе ядерный реактор!\"\" Часть 1 и 2 Оксана Бачинская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nachni-snimat-atmosferno-nadezhda-pyskina",
+    "title": "[Начни снимать атмосферно. Надежда Пышкина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "veb-dizajn-dlja-nachinajushhih-julija-per-vushina",
+    "title": "[Веб-дизайн для начинающих. Юлия Первушина]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "poleznyj-kalendr-2025-shugun",
+    "title": "[Полезный календарь 2025, Shugun]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ci-men-fen-shujj-chast-2-transkribacja-aleksej-levandovskijj",
+    "title": "[Ци Мень Фен Шуй. Часть 2. Транскрибация Алексей Левандовский]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "nejroseti-2025-dlja-biznesa-karery-i-dohoda-tarif-vip-damir-halilov",
+    "title": "[Нейросети 2025: для бизнеса, карьеры и дохода. Тариф ВИП. Дамир Халилов]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "menju-konstruktor-nata-dunaevskaja",
+    "title": "[Меню-конструктор. Ната Дунаевская]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "zhizn-bez-anemii-kak-vernut-sily-i-jenergiju-za-10-dnej-olga-pomojneczkaja",
+    "title": "[Жизнь без анемии как вернуть силы и энергию за 10 дней. Ольга Помойнецкая]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "sistemnyj-detskiy-centr-7-potok-2022-2023-sofja-timofeeva",
+    "title": "[Системный детский центр. 7 поток. 2022-2023 Софья Тимофеева]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "berezhnoe-vosstanovlenije-tela-iznutri-masha-blinova",
+    "title": "[Бережное восстановление тела изнутри. Маша Блинова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "seks-gljamur-marketeng-rimma-karamova",
+    "title": "[Секс. Гламур. Маркетинг. Римма Карамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rol-otca-v-zhizni-rebenka-zhanna-abramova",
+    "title": "[Роль отца в жизни ребенка. Жанна Абрамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rimma-karamova-zakrytyj-klub-fevral-2022-rimma-karamova-rimmakaramova",
+    "title": "[Римма Карамова - Закрытый клуб - февраль 2022. Римма Карамова rimmakaramova]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "rimma-karamova-zakrytyj-klub-mart-2022-rimma-karamova-rimmakaramova",
+    "title": "[Римма Карамова - Закрытый клуб - март 2022. Римма Карамова rimmakaramova]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "razvod-i-ego-vlijanie-na-detej-zhanna-abramova",
+    "title": "[Развод и его влияние на детей. Жанна Абрамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prostejshijj-zavet-fizika-ljubvi-audiokniga-rimma-karamova",
+    "title": "[Простейший Завет. Физика любви. Аудиокнига. Римма Карамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "prostejshijj-zavet-fizika-ljubvi-rimma-karamova",
+    "title": "[Простейший Завет Физика любви. Римма Карамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "privatnyj-kanal-v-instagram-s-2710-po-27112019-i-tri-korzinki-ivana-1-7-13-rimma-karamova",
+    "title": "[Приватный канал в Instagram. С 27.10 по 27.11.2019 и три корзинки Ивана 1, 7, 13. Римма Карамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "privatnyj-kanal-v-instagram-rimma-karamova",
+    "title": "[Приватный канал в Instagram. Римма Карамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "podrostki-zhanna-abramova",
+    "title": "[Подростки. Жанна Абрамова]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "magija-deneg-paket-s-masterom-2025-aleksandr-salogub",
+    "title": "[Магия Денег. Пакет с Мастером, 2025 (Александр Салогуб)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "edunote-zulja-bajramkulova-zhestokost-k-sebe-projavlenie-destruktivnogo-super-jo-2024",
+    "title": "[EduNote] Зульфия Байрамкулова ― Жестокость к себе. Проявление деструктивного Супер-Эго (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "gruppa-trikotazh-majj-2025-vera-voronina",
+    "title": "[Группа трикотаж. Май 2025 (Вера Воронина)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "klub-premium-vkusno-doma-majj-2025-olesja-shubina",
+    "title": "[Клуб премиум Вкусно Doma. Май 2025 (Олеся Шубина)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "lafarine_club-zakrytyj-klub-majj-2025-anastasija-voronova",
+    "title": "[lafarine_club] Закрытый клуб. Май 2025 (Анастасия Воронова)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vladimir-rjabov-manipuljacija-i-liderstvo-2024",
+    "title": "[Владимир Рябов] Манипуляция и лидерство (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "endodocm-mozg-vsemu-golova-majj-2025-larisa-chumak",
+    "title": "[Endo_doc_] Мозг всему голова. Май 2025 (Лариса Чумак)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "artem-tolokonin-aleksandra-tolokonina-iscelenie-rabota-s-telesnymi-blokami-2024",
+    "title": "[Артем Толоконин, Александра Толоконина] Исцеление. Работа с телесными блоками (2024)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "podpiska-na-kontent-tarif-universit-et-an-ton-ova-majj-2025-aleksej-an-tonov",
+    "title": "[Подписка на контент. Тариф Университет Антонова. Май 2025 (Алексей Антонов)]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kontent-na-million-20-tarif-start-s-kuratorom-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Контент на миллион 2.0. Тариф «Старт с куратором» dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "kontent-na-million-20-dominic__ana-domi-dominikana-bydomi",
+    "title": "[Контент на миллион 2.0. dominic__ana Доми, Доминикана, bydomi]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "vmeste-so-mnoj-ty-nauchishsja-tancevat-tverk-s-nulja-anastasija-malysheva-dance_malyshka",
+    "title": "[Вместе со мной ты научишься танцевать тверк с нуля. Анастасия Малышева, dance_malyshka]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ritmoney-1-2-potok-dasha-ritmo-ritmo",
+    "title": "[Ritmoney. 1-2 поток. Даша Ритмо, Ritmo]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "ritmoney-vtorojj-potok-dasha-ritmo-ritmo",
+    "title": "[Ritmoney. Второй поток. Даша Ритмо, Ritmo]",
+    "description": "",
+    "lessons": []
+  },
+  {
+    "id": "professionalnyj-astrolog-1-4-stupeni-julija-kan",
+    "title": "[Профессиональный астролог. 1-4 ступени. Юлия Кан.]",
+    "description": "",
+    "lessons": []
   }
 ]
