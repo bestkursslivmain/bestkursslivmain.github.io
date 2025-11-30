@@ -1,102 +1,108 @@
-let courses = []; // Все курсы из JSON
-let filteredCourses = []; // Отфильтрованные курсы (для поиска)
+let courses = []; // Все курсы
+let filteredCourses = []; // Отфильтрованные курсы
 let currentPage = 1;
 const coursesPerPage = 10;
-let totalPages = 0;
+let totalPages = 1;
 
-// Загрузка курсов
+// Загрузка данных из courses.json
 async function loadCourses() {
   try {
     const response = await fetch('courses.json');
-    if (!response.ok) {
-      throw new Error('Ошибка при загрузке данных');
-    }
+    if (!response.ok) throw new Error('Не удалось загрузить файл courses.json');
     courses = await response.json();
-    filteredCourses = [...courses]; // Изначально показываем все
-    totalPages = Math.ceil(filteredCourses.length / coursesPerPage);
-    updatePageInfo();
-    displayPage(currentPage);
+    filteredCourses = [...courses];
+    render();
   } catch (error) {
-    console.error('Ошибка:', error);
-    document.getElementById('courses-container').innerHTML = '<p>Ошибка загрузки курсов.</p>';
+    console.error('Ошибка загрузки:', error);
+    document.getElementById('courses-container').innerHTML = '<p style="color:red;">Ошибка загрузки курсов. Проверьте файл courses.json.</p>';
   }
 }
 
-// Отображение текущей страницы из filteredCourses
-function displayPage(page) {
-  const startIndex = (page - 1) * coursesPerPage;
-  const endIndex = startIndex + coursesPerPage;
-  const coursesToShow = filteredCourses.slice(startIndex, endIndex);
+// Основная функция отображения
+function render() {
+  totalPages = Math.ceil(filteredCourses.length / coursesPerPage) || 1;
+  currentPage = Math.min(currentPage, totalPages); // На случай, если после поиска страниц стало меньше
+  if (currentPage < 1) currentPage = 1;
 
-  const container = document.getElementById('courses-container');
-  container.innerHTML = '';
-
-  if (coursesToShow.length === 0) {
-    container.innerHTML = '<p>Курсов не найдено.</p>';
-  } else {
-    coursesToShow.forEach(course => {
-      const courseElement = document.createElement('div');
-      courseElement.className = 'course-item';
-      courseElement.innerHTML = `<h3>${course.title}</h3>`;
-      container.appendChild(courseElement);
-    });
-  }
-
+  displayPage(currentPage);
+  updatePageInfo();
   updateButtons();
 }
 
-// Обновление состояния кнопок
-function updateButtons() {
-  document.getElementById('prev-btn').disabled = currentPage === 1;
-  document.getElementById('next-btn').disabled = currentPage === totalPages;
+// Отображение одной страницы
+function displayPage(page) {
+  const start = (page - 1) * coursesPerPage;
+  const end = start + coursesPerPage;
+  const pageCourses = filteredCourses.slice(start, end);
+
+  const container = document.getElementById('courses-container');
+  if (pageCourses.length === 0) {
+    container.innerHTML = '<p>Курсов не найдено.</p>';
+    return;
+  }
+
+  container.innerHTML = pageCourses
+    .map(course => `
+      <div class="course-item">
+        <h3>${escapeHtml(course.title || 'Без названия')}</h3>
+      </div>
+    `)
+    .join('');
 }
 
-// Обновление индикатора страницы
+// Обновление кнопок
+function updateButtons() {
+  document.getElementById('prev-btn').disabled = currentPage <= 1;
+  document.getElementById('next-btn').disabled = currentPage >= totalPages;
+}
+
+// Обновление текста страницы
 function updatePageInfo() {
   document.getElementById('page-info').textContent = `Страница ${currentPage} из ${totalPages}`;
 }
 
-// Функция фильтрации курсов
+// Фильтрация курсов
 function filterCourses(query) {
   const q = query.trim().toLowerCase();
   if (q === '') {
     filteredCourses = [...courses];
   } else {
     filteredCourses = courses.filter(course =>
+      course.title &&
+      typeof course.title === 'string' &&
       course.title.toLowerCase().includes(q)
-      // Можно раскомментировать, если хотите искать и в описании:
-      // || (course.description && course.description.toLowerCase().includes(q))
     );
   }
-
-  // Сброс пагинации
   currentPage = 1;
-  totalPages = Math.ceil(filteredCourses.length / coursesPerPage) || 1;
-  updatePageInfo();
-  displayPage(currentPage);
+  render();
 }
 
-// Обработчики кнопок
+// Защита от XSS (опционально, но полезно)
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+// Обработчики событий
 document.getElementById('prev-btn').addEventListener('click', () => {
   if (currentPage > 1) {
     currentPage--;
-    displayPage(currentPage);
-    updatePageInfo();
+    render();
   }
 });
 
 document.getElementById('next-btn').addEventListener('click', () => {
   if (currentPage < totalPages) {
     currentPage++;
-    displayPage(currentPage);
-    updatePageInfo();
+    render();
   }
 });
 
-// Обработчик поиска
+// Поиск при вводе текста
 document.getElementById('search-input').addEventListener('input', (e) => {
   filterCourses(e.target.value);
 });
 
-// Загрузка при старте
-loadCourses();
+// Запуск при загрузке страницы
+document.addEventListener('DOMContentLoaded', loadCourses);
