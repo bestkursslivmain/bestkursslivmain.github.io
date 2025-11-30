@@ -1,37 +1,69 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
+  <meta charset="UTF-8">
   <title>Мои Курсы</title>
   <style>
-    /* Простая стилизация для примера */
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
     #search-input {
       width: 100%;
-      padding: 8px;
-      margin-bottom: 15px;
+      padding: 10px;
+      margin: 10px 0 20px;
       box-sizing: border-box;
+      font-size: 16px;
     }
     .course-item {
-      border: 1px solid #ccc;
-      padding: 10px;
+      border: 1px solid #ddd;
+      padding: 12px;
       margin-bottom: 10px;
-      border-radius: 4px;
+      border-radius: 6px;
+      background: #f9f9f9;
+    }
+    .course-item h3 {
+      margin: 0;
+      color: #333;
+    }
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin: 20px 0;
+    }
+    button {
+      padding: 8px 16px;
+      font-size: 14px;
+    }
+    #page-info {
+      color: #666;
+      margin-top: 10px;
     }
   </style>
 </head>
 <body>
   <h1>Список Курсов</h1>
-  
+
   <!-- Поле поиска -->
   <input type="text" id="search-input" placeholder="Поиск по названию курса...">
 
+  <!-- Контейнер для курсов -->
   <div id="courses-container">
-    <!-- Курсы будут отображаться здесь -->
+    <p>Загрузка курсов...</p>
   </div>
 
-  <button id="prev-btn" disabled>Предыдущая</button>
-  <button id="next-btn">Следующая</button>
+  <!-- Кнопки навигации -->
+  <div class="controls">
+    <button id="prev-btn" disabled>Предыдущая</button>
+    <button id="next-btn">Следующая</button>
+  </div>
+
+  <!-- Индикатор страницы -->
   <p id="page-info">Страница 1 из 1</p>
 
+  <!-- Подключение скрипта -->
   <script src="script.js"></script>
 </body>
 </html>
