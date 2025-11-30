@@ -1,0 +1,28 @@
+name: Build and Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]  # или ваша основная ветка, например: master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🏗️ Build index.html
+        run: node build.js
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          # Если у вас проект-страница (не user page), раскомментируйте:
+          # publish_branch: gh-pages
