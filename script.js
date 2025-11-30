@@ -34,9 +34,10 @@ function displayPage(page) {
     courseElement.className = 'course-item'; // Добавить класс для стилизации
     courseElement.innerHTML = `
       <h3>${course.title}</h3>
-      // <p>${course.description}</p>
+       
     `;
     container.appendChild(courseElement);
+    //<p>${course.description}</p>
   });
 
   updateButtons(); // Обновить состояние кнопок
