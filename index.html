@@ -1,16 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>Мои Курсы</title>
+  <title>Мои Курсы</title>
+  <style>
+    /* Простая стилизация для примера */
+    #search-input {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      box-sizing: border-box;
+    }
+    .course-item {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 4px;
+    }
+  </style>
 </head>
 <body>
- <h1>Список Курсов</h1>
- <div id="courses-container">
-   <!-- Курсы будут отображаться здесь -->
- </div>
- <button id="prev-btn" disabled>Предыдущая</button>
- <button id="next-btn">Следующая</button>
- <p id="page-info">Страница 1 из 3</p> <!-- Индикатор страницы -->
- <script src="script.js"></script> <!-- Подключите ваш JS файл -->
+  <h1>Список Курсов</h1>
+  
+  <!-- Поле поиска -->
+  <input type="text" id="search-input" placeholder="Поиск по названию курса...">
+
+  <div id="courses-container">
+    <!-- Курсы будут отображаться здесь -->
+  </div>
+
+  <button id="prev-btn" disabled>Предыдущая</button>
+  <button id="next-btn">Следующая</button>
+  <p id="page-info">Страница 1 из 1</p>
+
+  <script src="script.js"></script>
 </body>
 </html>
