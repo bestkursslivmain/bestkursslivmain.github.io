@@ -1,6 +1,6 @@
 let courses = []; // Массив для хранения данных
 let currentPage = 1;
-const coursesPerPage = 3; // Количество курсов на одной "странице"
+const coursesPerPage = 10; // Количество курсов на одной "странице"
 let totalPages = 0;
 
 // Функция для загрузки данных
@@ -34,7 +34,7 @@ function displayPage(page) {
     courseElement.className = 'course-item'; // Добавить класс для стилизации
     courseElement.innerHTML = `
       <h3>${course.title}</h3>
-      <p>${course.description}</p>
+      // <p>${course.description}</p>
     `;
     container.appendChild(courseElement);
   });
