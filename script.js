@@ -1,5 +1,5 @@
 // script.js — работает ТОЛЬКО с DOM, без courses.json!
-document.documentElement.classList.add('js-enabled');
+// document.documentElement.classList.add('js-enabled');
 
 const coursesPerPage = 10;
 let currentPage = 1;
