@@ -34,19 +34,49 @@ function render() {
   document.getElementById('next-btn').disabled = currentPage >= totalPages;
 }
 
+function normalizeText(str) {
+  if (typeof str !== 'string') return '';
+  return str
+    .toLowerCase()                     // 1. Приводим к нижнему регистру
+    .normalize('NFD')                  // 2. Разделяем буквы и диакритику (ё → e, ñ → n и т.д.)
+    .replace(/[\u0300-\u036f]/g, '')  // 3. Убираем диакритические знаки
+    .replace(/[^a-zа-я0-9\s]/g, ' ')  // 4. Убираем ВСЕ знаки препинания (оставляем только буквы, цифры, пробелы)
+    .replace(/\s+/g, ' ')              // 5. Заменяем множественные пробелы на один
+    .trim();                           // 6. Убираем пробелы по краям
+}
+
 function filterCourses(query) {
-  const q = query.trim().toLowerCase();
+  const q = normalizeText(query);
+  
   if (q === '') {
     filteredItems = [...allCourseItems];
   } else {
     filteredItems = allCourseItems.filter(item => {
-      const title = item.querySelector('h3')?.textContent || '';
-      return title.toLowerCase().includes(q);
+      const titleEl = item.querySelector('h3');
+      const title = titleEl ? titleEl.textContent : '';
+      const normalizedTitle = normalizeText(title);
+      
+      // Ищем, есть ли запрос как подстрока в названии
+      return normalizedTitle.includes(q);
     });
   }
+  
   currentPage = 1;
   render();
 }
+// function filterCourses(query) {
+//   const q = query.trim().toLowerCase();
+//   if (q === '') {
+//     filteredItems = [...allCourseItems];
+//   } else {
+//     filteredItems = allCourseItems.filter(item => {
+//       const title = item.querySelector('h3')?.textContent || '';
+//       return title.toLowerCase().includes(q);
+//     });
+//   }
+//   currentPage = 1;
+//   render();
+// }
 
 // Обработчики
 document.getElementById('prev-btn')?.addEventListener('click', () => {
